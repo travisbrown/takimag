@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>The Total Failure of Conservatism</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/the-total-failure-of-conservatism/">
+    </link>
+    <published>Mon, 07 Feb 2022 09:01:55 +0000</published>
+    <updated>Mon, 07 Feb 2022 09:01:55 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category label="Conservatism" scheme="" term="Conservatism">
+    </category>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>The Covid Matrix</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the-covid-matrix/">
+    </link>
+    <published>Mon, 31 Jan 2022 06:28:37 +0000</published>
+    <updated>Mon, 31 Jan 2022 06:28:37 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category scheme="" label="Cultural Caviar" term="Cultural Caviar">
+    </category>
+    <category label="Zeitgeist" scheme="" term="Zeitgeist">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>The Madonna of Modern Politics</title>
+    <link rel="alternate" href="https://www.takimag.com/article/the-madonna-of-modern-politics/" type="text/html">
+    </link>
+    <published>Sun, 23 Jan 2022 23:00:00 +0000</published>
+    <updated>Sun, 23 Jan 2022 23:00:00 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category label="District of Corruption" term="District of Corruption" scheme="">
+    </category>
+    <category scheme="" term="Politics" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>A New Threat</title>
+    <link href="https://www.takimag.com/article/a-new-threat/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 17 Jan 2022 07:42:09 +0000</published>
+    <updated>Mon, 17 Jan 2022 07:42:09 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category scheme="" term="International Affairs" label="International Affairs">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>Prisoners of the New Order</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/prisoners-of-the-new-order/">
+    </link>
+    <published>Sun, 09 Jan 2022 23:00:00 +0000</published>
+    <updated>Sun, 09 Jan 2022 23:00:00 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category term="Contagion" scheme="" label="Contagion">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>The Great Divorce</title>
+    <link rel="alternate" href="https://www.takimag.com/article/the-great-divorce/" type="text/html">
+    </link>
+    <published>Sun, 02 Jan 2022 23:00:00 +0000</published>
+    <updated>Sun, 02 Jan 2022 23:00:00 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+    <category term="Zeitgeist" scheme="" label="Zeitgeist">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>True Believers</title>
+    <link rel="alternate" href="https://www.takimag.com/article/true-believers/" type="text/html">
+    </link>
+    <published>Sun, 26 Dec 2021 23:00:00 +0000</published>
+    <updated>Sun, 26 Dec 2021 23:00:00 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category term="Cultural Caviar" label="Cultural Caviar" scheme="">
+    </category>
+    <category term="Deep Thoughts" label="Deep Thoughts" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>Legacy Activism</title>
+    <link href="https://www.takimag.com/article/legacy-activism/" type="text/html" rel="alternate">
+    </link>
+    <published>Mon, 20 Dec 2021 07:46:21 +0000</published>
+    <updated>Mon, 20 Dec 2021 07:46:21 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category scheme="" term="Home Front" label="Home Front">
+    </category>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>“That’s It! I’m Leaving!”</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/thats-it-im-leaving/">
+    </link>
+    <published>Mon, 13 Dec 2021 07:32:10 +0000</published>
+    <updated>Mon, 13 Dec 2021 07:32:10 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category scheme="" label="Conservatism" term="Conservatism">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>Battle Among Truths</title>
+    <link href="https://www.takimag.com/article/battle-among-truths/" type="text/html" rel="alternate">
+    </link>
+    <published>Sun, 05 Dec 2021 23:00:00 +0000</published>
+    <updated>Sun, 05 Dec 2021 23:00:00 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category label="Crime and Punishment" scheme="" term="Crime and Punishment">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>A New Legal Theory</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/a-new-legal-theory/">
+    </link>
+    <published>Sun, 28 Nov 2021 23:00:00 +0000</published>
+    <updated>Sun, 28 Nov 2021 23:00:00 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category scheme="" term="Crime and Punishment" label="Crime and Punishment">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>The Fight for Civic Nationalism</title>
+    <link href="https://www.takimag.com/article/the-fight-for-civic-nationalism/" type="text/html" rel="alternate">
+    </link>
+    <published>Mon, 22 Nov 2021 07:01:09 +0000</published>
+    <updated>Mon, 22 Nov 2021 07:01:09 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category term="Crime and Punishment" scheme="" label="Crime and Punishment">
+    </category>
+    <category scheme="" term="Politics" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>Identity Swap</title>
+    <link href="https://www.takimag.com/article/identity-swap/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 15 Nov 2021 10:29:22 +0000</published>
+    <updated>Mon, 15 Nov 2021 10:29:22 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category label="Heart of Darkness" term="Heart of Darkness" scheme="">
+    </category>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>The Truth About Lying</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the-truth-about-lying/">
+    </link>
+    <published>Sun, 07 Nov 2021 23:00:00 +0000</published>
+    <updated>Sun, 07 Nov 2021 23:00:00 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category scheme="" term="District of Corruption" label="District of Corruption">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Z Man</subtitle>
+  <entry>
+    <title>Heroes and Villains</title>
+    <link rel="alternate" href="https://www.takimag.com/article/heroes-and-villains-2/" type="text/html">
+    </link>
+    <published>Sun, 31 Oct 2021 23:00:00 +0000</published>
+    <updated>Sun, 31 Oct 2021 23:00:00 +0000</updated>
+    <author>
+      <name>The Z Man</name>
+      <email>Christopher.Zeeman@protonmail.com</email>
+      <uri>/contributor/Christopher Zeeman/834</uri>
+    </author>
+    <category label="Deep Thoughts" term="Deep Thoughts" scheme="">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+</feed>

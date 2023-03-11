@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Ross Hornblower </subtitle>
+  <entry>
+    <title>Humor Me</title>
+    <link rel="alternate" href="https://www.takimag.com/article/humor_me_ross_hornblower/" type="text/html">
+    </link>
+    <published>Sun, 14 Apr 2013 04:00:34 +0000</published>
+    <updated>Sun, 14 Apr 2013 04:00:34 +0000</updated>
+    <author>
+      <name>Ross Hornblower</name>
+      <email>ross_hornblower@yahoo.co.uk</email>
+      <uri>/contributor/RossHornblower/203</uri>
+    </author>
+    <category term="Cultural Caviar" label="Cultural Caviar" scheme="">
+    </category>
+    <category label="Deep Thoughts" term="Deep Thoughts" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Ross Hornblower </subtitle>
+  <entry>
+    <title>Roman Abramovich: Practical, Down to Earth, and Definitely Going to Heaven</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/roman_abramovich_practical_down_to_earth_and_definitely_going_to_heaven/">
+    </link>
+    <published>Tue, 24 Aug 2010 04:00:57 +0000</published>
+    <updated>Tue, 24 Aug 2010 04:00:57 +0000</updated>
+    <author>
+      <name>Ross Hornblower</name>
+      <email>ross_hornblower@yahoo.co.uk</email>
+      <uri>/contributor/RossHornblower/203</uri>
+    </author>
+    <category term="High Society" label="High Society" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Ross Hornblower </subtitle>
+  <entry>
+    <title>Forget Ferdinand, England Has Another Secret Weapon</title>
+    <link href="https://www.takimag.com/article/forget_ferdinand_england_has_another_secret_weapon/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 07 Jun 2010 04:47:26 +0000</published>
+    <updated>Mon, 07 Jun 2010 04:47:26 +0000</updated>
+    <author>
+      <name>Ross Hornblower</name>
+      <email>ross_hornblower@yahoo.co.uk</email>
+      <uri>/contributor/RossHornblower/203</uri>
+    </author>
+    <category label="Scandal" scheme="" term="Scandal">
+    </category>
+  </entry>
+</feed>

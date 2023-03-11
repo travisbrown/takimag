@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Tom Schlegel </subtitle>
+  <entry>
+    <title>New Witch Hunts for Halloween</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/new_witch_hunts_for_halloween/">
+    </link>
+    <published>Sun, 30 Oct 2011 04:00:54 +0000</published>
+    <updated>Sun, 30 Oct 2011 04:00:54 +0000</updated>
+    <author>
+      <name>Tom Schlegel</name>
+      <email>BarSchleg@aol.com</email>
+      <uri>/contributor/TomSchlegel/258</uri>
+    </author>
+    <category label="Cultural Caviar" term="Cultural Caviar" scheme="">
+    </category>
+    <category term="Vile Bodies" label="Vile Bodies" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Tom Schlegel </subtitle>
+  <entry>
+    <title>Feminist Delusions About Children’s Fairytales</title>
+    <link href="https://www.takimag.com/article/feminist_delusions_about_childrens_fairytales/" type="text/html" rel="alternate">
+    </link>
+    <published>Sun, 16 Oct 2011 04:12:12 +0000</published>
+    <updated>Sun, 16 Oct 2011 04:12:12 +0000</updated>
+    <author>
+      <name>Tom Schlegel</name>
+      <email>BarSchleg@aol.com</email>
+      <uri>/contributor/TomSchlegel/258</uri>
+    </author>
+    <category scheme="" term="Bitch, Please!" label="Bitch, Please!">
+    </category>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+  </entry>
+</feed>

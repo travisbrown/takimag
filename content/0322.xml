@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Matt Forney </subtitle>
+  <entry>
+    <title>IM-ing McCarthy</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/im_ing_mccarthy_matt_forney/">
+    </link>
+    <published>Wed, 25 Feb 2015 04:00:52 +0000</published>
+    <updated>Wed, 25 Feb 2015 04:00:52 +0000</updated>
+    <author>
+      <name>Matt Forney</name>
+      <email>mattforney@gmail.com</email>
+      <uri>/contributor/mattforney/322</uri>
+    </author>
+    <category label="Modern Weapons" scheme="" term="Modern Weapons">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Matt Forney </subtitle>
+  <entry>
+    <title>A Plague of Ingrates</title>
+    <link type="text/html" href="https://www.takimag.com/article/a_plague_of_ingrates_matt_forney/" rel="alternate">
+    </link>
+    <published>Tue, 06 Jan 2015 04:01:10 +0000</published>
+    <updated>Tue, 06 Jan 2015 04:01:10 +0000</updated>
+    <author>
+      <name>Matt Forney</name>
+      <email>mattforney@gmail.com</email>
+      <uri>/contributor/mattforney/322</uri>
+    </author>
+    <category label="Politics" term="Politics" scheme="">
+    </category>
+    <category term="The Big Bagel" scheme="" label="The Big Bagel">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Matt Forney </subtitle>
+  <entry>
+    <title>Gawker Media: Hypocrites vs. Douchecanoes</title>
+    <link type="text/html" href="https://www.takimag.com/article/gawker_media_hypocrites_vs_douchecanoes/" rel="alternate">
+    </link>
+    <published>Wed, 13 Aug 2014 16:02:19 +0000</published>
+    <updated>Wed, 13 Aug 2014 16:02:19 +0000</updated>
+    <author>
+      <name>Matt Forney</name>
+      <email>mattforney@gmail.com</email>
+      <uri>/contributor/mattforney/322</uri>
+    </author>
+    <category scheme="" label="Afternoon Delight" term="Afternoon Delight">
+    </category>
+    <category scheme="" label="Commerce" term="Commerce">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Matt Forney </subtitle>
+  <entry>
+    <title>Twit Planet</title>
+    <link rel="alternate" href="https://www.takimag.com/article/twit_planet_matt_forney/" type="text/html">
+    </link>
+    <published>Tue, 05 Aug 2014 04:01:00 +0000</published>
+    <updated>Tue, 05 Aug 2014 04:01:00 +0000</updated>
+    <author>
+      <name>Matt Forney</name>
+      <email>mattforney@gmail.com</email>
+      <uri>/contributor/mattforney/322</uri>
+    </author>
+    <category term="Cultural Caviar" label="Cultural Caviar" scheme="">
+    </category>
+    <category term="Lit Crit" scheme="" label="Lit Crit">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Matt Forney </subtitle>
+  <entry>
+    <title>Soulless in Santa Barbara</title>
+    <link href="https://www.takimag.com/article/soulless_in_santa_barbara_matt_forney/" type="text/html" rel="alternate">
+    </link>
+    <published>Mon, 26 May 2014 04:04:31 +0000</published>
+    <updated>Mon, 26 May 2014 04:04:31 +0000</updated>
+    <author>
+      <name>Matt Forney</name>
+      <email>mattforney@gmail.com</email>
+      <uri>/contributor/mattforney/322</uri>
+    </author>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+    <category label="Trending" scheme="" term="Trending">
+    </category>
+  </entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Kevin Michael Grace </subtitle>
+  <entry>
+    <title>Take My Computer, Please</title>
+    <link type="text/html" href="https://www.takimag.com/article/take_my_computer_please/" rel="alternate">
+    </link>
+    <published>Fri, 08 Jun 2007 03:01:00 +0000</published>
+    <updated>Fri, 08 Jun 2007 03:01:00 +0000</updated>
+    <author>
+      <name>Kevin Michael Grace</name>
+      <email>kmgrace@takimag.com</email>
+      <uri>/contributor/KMGrace/37</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+</feed>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Neal Nicholson </subtitle>
+  <entry>
+    <title>Heretics in the Femfog</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/heretics_in_the_femfog_neal_nicholson/">
+    </link>
+    <published>Thu, 28 Jan 2016 04:00:41 +0000</published>
+    <updated>Thu, 28 Jan 2016 04:00:41 +0000</updated>
+    <author>
+      <name>Neal Nicholson</name>
+      <email>n_edmund_n@hotmail.com</email>
+      <uri>/contributor/nealnicholson/310</uri>
+    </author>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+    <category scheme="" label="Scandal" term="Scandal">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Neal Nicholson </subtitle>
+  <entry>
+    <title>Lock Me Up and Throw Away the Smokes</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/lock_me_up_and_throw_away_the_smokes_neal_nicholson/">
+    </link>
+    <published>Fri, 17 May 2013 04:00:21 +0000</published>
+    <updated>Fri, 17 May 2013 04:00:21 +0000</updated>
+    <author>
+      <name>Neal Nicholson</name>
+      <email>n_edmund_n@hotmail.com</email>
+      <uri>/contributor/nealnicholson/310</uri>
+    </author>
+    <category term="Commerce" scheme="" label="Commerce">
+    </category>
+    <category scheme="" label="Trending" term="Trending">
+    </category>
+  </entry>
+</feed>

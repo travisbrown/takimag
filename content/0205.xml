@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>Burn Them Down</title>
+    <link type="text/html" href="https://www.takimag.com/article/burn-them-down/" rel="alternate">
+    </link>
+    <published>Mon, 28 Sep 2020 07:17:12 +0000</published>
+    <updated>Mon, 28 Sep 2020 07:17:12 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category term="Apocalypse Now" label="Apocalypse Now" scheme="">
+    </category>
+    <category label="Politics" scheme="" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>97 Acres and a Mulignan</title>
+    <link rel="alternate" href="https://www.takimag.com/article/97-acres-and-a-mulignan/" type="text/html">
+    </link>
+    <published>Mon, 21 Sep 2020 12:00:39 +0000</published>
+    <updated>Mon, 21 Sep 2020 12:00:39 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category scheme="" label="BLM" term="BLM">
+    </category>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>A Tidal Wave of Righteous Apathy</title>
+    <link href="https://www.takimag.com/article/a-tidal-wave-of-righteous-apathy/" type="text/html" rel="alternate">
+    </link>
+    <published>Mon, 14 Sep 2020 06:30:32 +0000</published>
+    <updated>Mon, 14 Sep 2020 06:30:32 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category term="Deep Thoughts" scheme="" label="Deep Thoughts">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>Suicide on the Trans-Black Express</title>
+    <link href="https://www.takimag.com/article/suicide-on-the-trans-black-express/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 07 Sep 2020 00:00:47 +0000</published>
+    <updated>Mon, 07 Sep 2020 00:00:47 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category label="Another Defenestration" term="Another Defenestration" scheme="">
+    </category>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>Being Nice to Black People</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/being-nice-to-black-people/">
+    </link>
+    <published>Mon, 31 Aug 2020 00:00:56 +0000</published>
+    <updated>Mon, 31 Aug 2020 00:00:56 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category term="BLM" scheme="" label="BLM">
+    </category>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>Kicked in the Skull by Love</title>
+    <link href="https://www.takimag.com/article/kicked-in-the-skull-by-love/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 24 Aug 2020 07:04:58 +0000</published>
+    <updated>Mon, 24 Aug 2020 07:04:58 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category scheme="" term="BLM" label="BLM">
+    </category>
+    <category label="Cultural Caviar" term="Cultural Caviar" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>George Floyd: The Big Lie</title>
+    <link href="https://www.takimag.com/article/george-floyd-the-big-lie/" rel="alternate" type="text/html">
+    </link>
+    <published>Sun, 09 Aug 2020 20:23:50 +0000</published>
+    <updated>Sun, 09 Aug 2020 20:23:50 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category label="Cultural Caviar" scheme="" term="Cultural Caviar">
+    </category>
+    <category term="The Untold Story" scheme="" label="The Untold Story">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>Extreme Social Distancing</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/extreme-social-distancing/">
+    </link>
+    <published>Mon, 03 Aug 2020 07:03:36 +0000</published>
+    <updated>Mon, 03 Aug 2020 07:03:36 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category term="Bizarro World" label="Bizarro World" scheme="">
+    </category>
+    <category label="Cultural Caviar" term="Cultural Caviar" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>The Lowercase Caste</title>
+    <link href="https://www.takimag.com/article/the-lowercase-caste/" type="text/html" rel="alternate">
+    </link>
+    <published>Mon, 27 Jul 2020 07:03:37 +0000</published>
+    <updated>Mon, 27 Jul 2020 07:03:37 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category label="Journalism" term="Journalism" scheme="">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>From Asheville to Trashville</title>
+    <link rel="alternate" href="https://www.takimag.com/article/from-asheville-to-trashville/" type="text/html">
+    </link>
+    <published>Mon, 20 Jul 2020 00:00:32 +0000</published>
+    <updated>Mon, 20 Jul 2020 00:00:32 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category term="BLM" label="BLM" scheme="">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>It’s Dumb to Play in Traffic</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/its-dumb-to-play-in-traffic/">
+    </link>
+    <published>Mon, 13 Jul 2020 14:28:17 +0000</published>
+    <updated>Mon, 13 Jul 2020 14:28:17 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+    <category scheme="" term="The Untold Story" label="The Untold Story">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>What Black Lives Matter Says About White People</title>
+    <link rel="alternate" href="https://www.takimag.com/article/what-black-lives-matter-says-about-white-people/" type="text/html">
+    </link>
+    <published>Mon, 06 Jul 2020 09:36:55 +0000</published>
+    <updated>Mon, 06 Jul 2020 09:36:55 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category label="BLM" term="BLM" scheme="">
+    </category>
+    <category scheme="" term="Cultural Caviar" label="Cultural Caviar">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>A Whole New Breed of White People</title>
+    <link href="https://www.takimag.com/article/a-whole-new-breed-of-white-people/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 29 Jun 2020 00:00:23 +0000</published>
+    <updated>Mon, 29 Jun 2020 00:00:23 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category scheme="" label="Racial Politics" term="Racial Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>Gradually, Then Suddenly</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/gradually-then-suddenly/">
+    </link>
+    <published>Mon, 22 Jun 2020 08:00:41 +0000</published>
+    <updated>Mon, 22 Jun 2020 08:00:41 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category scheme="" label="Apocalypse Now" term="Apocalypse Now">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Jim Goad </subtitle>
+  <entry>
+    <title>Do Black Feelings Matter Too Much?</title>
+    <link rel="alternate" href="https://www.takimag.com/article/do-black-feelings-matter-too-much/" type="text/html">
+    </link>
+    <published>Mon, 15 Jun 2020 07:58:15 +0000</published>
+    <updated>Mon, 15 Jun 2020 07:58:15 +0000</updated>
+    <author>
+      <name>Jim Goad</name>
+      <email>jg@jimgoad.net</email>
+      <uri>/contributor/JimGoad/205</uri>
+    </author>
+    <category label="Apocalypse Now" term="Apocalypse Now" scheme="">
+    </category>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+  </entry>
+</feed>

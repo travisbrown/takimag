@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Michael Charney </subtitle>
+  <entry>
+    <title>Revenge of the RINOs</title>
+    <link href="https://www.takimag.com/article/revenge_of_the_rinos_michael_charney/" rel="alternate" type="text/html">
+    </link>
+    <published>Thu, 21 Jun 2012 04:03:35 +0000</published>
+    <updated>Thu, 21 Jun 2012 04:03:35 +0000</updated>
+    <author>
+      <name>Michael Charney</name>
+      <email>mcharney@riddlebrookpublishing.com</email>
+      <uri>/contributor/Michael Charney/293</uri>
+    </author>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+    <category scheme="" label="The Stupid Party" term="The Stupid Party">
+    </category>
+  </entry>
+</feed>

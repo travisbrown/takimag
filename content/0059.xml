@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Joseph Stromberg </subtitle>
+  <entry>
+    <title>The Conservative Intellectual Uprising</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/the_conservative_intellectual_uprising/">
+    </link>
+    <published>Tue, 23 Oct 2007 03:01:00 +0000</published>
+    <updated>Tue, 23 Oct 2007 03:01:00 +0000</updated>
+    <author>
+      <name>Joseph Stromberg</name>
+      <email>JStromberg@takimag.com</email>
+      <uri>/contributor/JStromberg/59</uri>
+    </author>
+    <category scheme="" label="Uncategorized" term="Uncategorized">
+    </category>
+  </entry>
+</feed>

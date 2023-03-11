@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Daniel Flynn </subtitle>
+  <entry>
+    <title>Reefer Madness</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/reefer_madness/">
+    </link>
+    <published>Mon, 04 May 2009 12:16:35 +0000</published>
+    <updated>Mon, 04 May 2009 12:16:35 +0000</updated>
+    <author>
+      <name>Daniel Flynn</name>
+      <email>danielflynn@takimag.com</email>
+      <uri>/contributor/danielflynn/85</uri>
+    </author>
+    <category label="High Life" term="High Life" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Daniel Flynn </subtitle>
+  <entry>
+    <title>The New New Deal</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the_new_new_deal/">
+    </link>
+    <published>Thu, 29 Jan 2009 17:47:07 +0000</published>
+    <updated>Thu, 29 Jan 2009 17:47:07 +0000</updated>
+    <author>
+      <name>Daniel Flynn</name>
+      <email>danielflynn@takimag.com</email>
+      <uri>/contributor/danielflynn/85</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Daniel Flynn </subtitle>
+  <entry>
+    <title>Obama and the Left</title>
+    <link href="https://www.takimag.com/article/obama_and_the_left/" rel="alternate" type="text/html">
+    </link>
+    <published>Sun, 26 Oct 2008 13:20:00 +0000</published>
+    <updated>Sun, 26 Oct 2008 13:20:00 +0000</updated>
+    <author>
+      <name>Daniel Flynn</name>
+      <email>danielflynn@takimag.com</email>
+      <uri>/contributor/danielflynn/85</uri>
+    </author>
+    <category term="Takimag Classic" scheme="" label="Takimag Classic">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Daniel Flynn </subtitle>
+  <entry>
+    <title>The Believer”Obama Gets the Left Closer to God</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the_believerobama_gets_the_left_closer_to_god/">
+    </link>
+    <published>Thu, 31 Jul 2008 05:48:00 +0000</published>
+    <updated>Thu, 31 Jul 2008 05:48:00 +0000</updated>
+    <author>
+      <name>Daniel Flynn</name>
+      <email>danielflynn@takimag.com</email>
+      <uri>/contributor/danielflynn/85</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Daniel Flynn </subtitle>
+  <entry>
+    <title>The Judicial Shakedown</title>
+    <link href="https://www.takimag.com/article/the_judicial_shakedown/" rel="alternate" type="text/html">
+    </link>
+    <published>Wed, 21 May 2008 00:29:00 +0000</published>
+    <updated>Wed, 21 May 2008 00:29:00 +0000</updated>
+    <author>
+      <name>Daniel Flynn</name>
+      <email>danielflynn@takimag.com</email>
+      <uri>/contributor/danielflynn/85</uri>
+    </author>
+    <category label="Uncategorized" term="Uncategorized" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Daniel Flynn </subtitle>
+  <entry>
+    <title>The New Hope (Same as the Old Hope)</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the_new_hope_same_as_the_old_hope/">
+    </link>
+    <published>Wed, 16 Apr 2008 11:11:00 +0000</published>
+    <updated>Wed, 16 Apr 2008 11:11:00 +0000</updated>
+    <author>
+      <name>Daniel Flynn</name>
+      <email>danielflynn@takimag.com</email>
+      <uri>/contributor/danielflynn/85</uri>
+    </author>
+    <category label="Uncategorized" term="Uncategorized" scheme="">
+    </category>
+  </entry>
+</feed>

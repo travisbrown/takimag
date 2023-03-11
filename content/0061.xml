@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Steven LaTulippe </subtitle>
+  <entry>
+    <title>Say It Loud: Isolationist-Proud!</title>
+    <link rel="alternate" href="https://www.takimag.com/article/say_it_loud_isolationist-proud/" type="text/html">
+    </link>
+    <published>Wed, 16 Jan 2008 05:01:00 +0000</published>
+    <updated>Wed, 16 Jan 2008 05:01:00 +0000</updated>
+    <author>
+      <name>Steven LaTulippe</name>
+      <email>SLaTulippe@takimag.com</email>
+      <uri>/contributor/SLaTulippe/61</uri>
+    </author>
+    <category scheme="" label="Uncategorized" term="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Steven LaTulippe </subtitle>
+  <entry>
+    <title>Let’s Sit Out World War IV</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/lets_sit_out_world_war_iv/">
+    </link>
+    <published>Wed, 07 Nov 2007 04:01:00 +0000</published>
+    <updated>Wed, 07 Nov 2007 04:01:00 +0000</updated>
+    <author>
+      <name>Steven LaTulippe</name>
+      <email>SLaTulippe@takimag.com</email>
+      <uri>/contributor/SLaTulippe/61</uri>
+    </author>
+    <category scheme="" term="Uncategorized" label="Uncategorized">
+    </category>
+  </entry>
+</feed>

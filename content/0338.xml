@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Dr. Rodrigue Tremblay </subtitle>
+  <entry>
+    <title>A Confused Situation as to Syria and ISIS</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/a_confused_situation_as_to_syria_and_isis_rodrigue_tremblay/">
+    </link>
+    <published>Wed, 23 Sep 2015 04:00:16 +0000</published>
+    <updated>Wed, 23 Sep 2015 04:00:16 +0000</updated>
+    <author>
+      <name>Dr. Rodrigue Tremblay</name>
+      <email>rodrigue.tremblay1@gmail.com</email>
+      <uri>/contributor/rodriguetremblay/338</uri>
+    </author>
+    <category term="International Affairs" scheme="" label="International Affairs">
+    </category>
+    <category scheme="" term="Politics" label="Politics">
+    </category>
+  </entry>
+</feed>

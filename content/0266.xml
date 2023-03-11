@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Helen Szamuely </subtitle>
+  <entry>
+    <title>A Tale of Two Etonians</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/a_tale_of_two_etonians_helen_szamuely/">
+    </link>
+    <published>Thu, 23 Feb 2012 04:00:20 +0000</published>
+    <updated>Thu, 23 Feb 2012 04:00:20 +0000</updated>
+    <author>
+      <name>Helen Szamuely</name>
+      <email>szamuely@aol.com</email>
+      <uri>/contributor/HelenSzamuely/266</uri>
+    </author>
+    <category scheme="" term="Britain" label="Britain">
+    </category>
+    <category label="Politics" scheme="" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Helen Szamuely </subtitle>
+  <entry>
+    <title>A Nightmare of Olympic Proportions</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/a_nightmare_of_olympic_proportions/">
+    </link>
+    <published>Wed, 01 Feb 2012 04:00:13 +0000</published>
+    <updated>Wed, 01 Feb 2012 04:00:13 +0000</updated>
+    <author>
+      <name>Helen Szamuely</name>
+      <email>szamuely@aol.com</email>
+      <uri>/contributor/HelenSzamuely/266</uri>
+    </author>
+    <category term="Britain" scheme="" label="Britain">
+    </category>
+    <category scheme="" term="Commerce" label="Commerce">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Helen Szamuely </subtitle>
+  <entry>
+    <title>An Older, Better Future</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/an_older_better_future/">
+    </link>
+    <published>Fri, 13 Jan 2012 04:00:27 +0000</published>
+    <updated>Fri, 13 Jan 2012 04:00:27 +0000</updated>
+    <author>
+      <name>Helen Szamuely</name>
+      <email>szamuely@aol.com</email>
+      <uri>/contributor/HelenSzamuely/266</uri>
+    </author>
+    <category term="Over the Hill" scheme="" label="Over the Hill">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Helen Szamuely </subtitle>
+  <entry>
+    <title>The People v. Putin</title>
+    <link rel="alternate" href="https://www.takimag.com/article/the_people_v_putin/" type="text/html">
+    </link>
+    <published>Fri, 16 Dec 2011 17:29:20 +0000</published>
+    <updated>Fri, 16 Dec 2011 17:29:20 +0000</updated>
+    <author>
+      <name>Helen Szamuely</name>
+      <email>szamuely@aol.com</email>
+      <uri>/contributor/HelenSzamuely/266</uri>
+    </author>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+    <category scheme="" label="Russia Watch" term="Russia Watch">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Helen Szamuely </subtitle>
+  <entry>
+    <title>Disunited Russia</title>
+    <link type="text/html" href="https://www.takimag.com/article/disunited_russia/" rel="alternate">
+    </link>
+    <published>Tue, 06 Dec 2011 04:00:55 +0000</published>
+    <updated>Tue, 06 Dec 2011 04:00:55 +0000</updated>
+    <author>
+      <name>Helen Szamuely</name>
+      <email>szamuely@aol.com</email>
+      <uri>/contributor/HelenSzamuely/266</uri>
+    </author>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+    <category scheme="" term="Russia" label="Russia">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Helen Szamuely </subtitle>
+  <entry>
+    <title>The Eternal Appeal of Whodunits</title>
+    <link rel="alternate" href="https://www.takimag.com/article/the_eternal_appeal_of_whodunits/" type="text/html">
+    </link>
+    <published>Mon, 28 Nov 2011 04:00:13 +0000</published>
+    <updated>Mon, 28 Nov 2011 04:00:13 +0000</updated>
+    <author>
+      <name>Helen Szamuely</name>
+      <email>szamuely@aol.com</email>
+      <uri>/contributor/HelenSzamuely/266</uri>
+    </author>
+    <category scheme="" label="Uncategorized" term="Uncategorized">
+    </category>
+  </entry>
+</feed>

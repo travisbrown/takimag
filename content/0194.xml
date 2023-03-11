@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Nathan Tucker </subtitle>
+  <entry>
+    <title>The Constitutional Case for Prayer</title>
+    <link type="text/html" href="https://www.takimag.com/article/the_constitutional_case_for_prayer/" rel="alternate">
+    </link>
+    <published>Tue, 27 Apr 2010 04:00:26 +0000</published>
+    <updated>Tue, 27 Apr 2010 04:00:26 +0000</updated>
+    <author>
+      <name>Nathan Tucker</name>
+      <email>ntucker@takimag.com</email>
+      <uri>/contributor/NathanTucker/194</uri>
+    </author>
+    <category label="Church and State" term="Church and State" scheme="">
+    </category>
+  </entry>
+</feed>

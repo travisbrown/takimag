@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>The Week That Perished</title>
+    <link href="https://www.takimag.com/article/the-week-that-perished-148/" rel="alternate" type="text/html">
+    </link>
+    <published>Sun, 25 Jul 2021 05:15:43 +0000</published>
+    <updated>Sun, 25 Jul 2021 05:15:43 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category label="News" term="News" scheme="">
+    </category>
+    <category scheme="" term="The Week That Perished" label="The Week That Perished">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>The Week That Perished</title>
+    <link href="https://www.takimag.com/article/the-week-that-perished-144/" rel="alternate" type="text/html">
+    </link>
+    <published>Sun, 20 Jun 2021 10:23:16 +0000</published>
+    <updated>Sun, 20 Jun 2021 10:23:16 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category term="News" scheme="" label="News">
+    </category>
+    <category scheme="" term="The Week That Perished" label="The Week That Perished">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>Global Refugee Roundup: Migrants v. Refugees Edition</title>
+    <link href="https://www.takimag.com/article/global-refugee-roundup-migrants-v-refugees-edition/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 03 Dec 2018 00:00:07 +0000</published>
+    <updated>Mon, 03 Dec 2018 00:00:07 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category label="Cultural Caviar" scheme="" term="Cultural Caviar">
+    </category>
+    <category label="Issue of the Century" term="Issue of the Century" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>The Week That Perished</title>
+    <link type="text/html" href="https://www.takimag.com/article/the-week-that-perished-12/" rel="alternate">
+    </link>
+    <published>Sun, 04 Nov 2018 07:50:37 +0000</published>
+    <updated>Sun, 04 Nov 2018 07:50:37 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+    <category term="News" scheme="" label="News">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>The Week That Perished</title>
+    <link type="text/html" href="https://www.takimag.com/article/the-week-that-perished-11/" rel="alternate">
+    </link>
+    <published>Sun, 28 Oct 2018 08:20:31 +0000</published>
+    <updated>Sun, 28 Oct 2018 08:20:31 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category scheme="" term="Cultural Caviar" label="Cultural Caviar">
+    </category>
+    <category term="News" scheme="" label="News">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>Global Refugee Roundup: Spanish Caravan Edition</title>
+    <link href="https://www.takimag.com/article/global-refugee-roundup-spanish-caravan-edition/" type="text/html" rel="alternate">
+    </link>
+    <published>Thu, 25 Oct 2018 18:22:11 +0000</published>
+    <updated>Thu, 25 Oct 2018 18:22:11 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category scheme="" label="Issue of the Century" term="Issue of the Century">
+    </category>
+    <category label="Politics" term="Politics" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>The Week That Perished</title>
+    <link type="text/html" href="https://www.takimag.com/article/the-week-that-perished-10/" rel="alternate">
+    </link>
+    <published>Sun, 21 Oct 2018 08:00:10 +0000</published>
+    <updated>Sun, 21 Oct 2018 08:00:10 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category scheme="" label="Cultural Caviar" term="Cultural Caviar">
+    </category>
+    <category term="News" label="News" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>The Week That Perished</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the-week-that-perished-9/">
+    </link>
+    <published>Sun, 14 Oct 2018 07:39:01 +0000</published>
+    <updated>Sun, 14 Oct 2018 07:39:01 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category label="Cultural Caviar" scheme="" term="Cultural Caviar">
+    </category>
+    <category term="News" label="News" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>The Week That Perished</title>
+    <link href="https://www.takimag.com/article/the-week-that-perished-8/" rel="alternate" type="text/html">
+    </link>
+    <published>Sun, 07 Oct 2018 06:53:21 +0000</published>
+    <updated>Sun, 07 Oct 2018 06:53:21 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category scheme="" label="Cultural Caviar" term="Cultural Caviar">
+    </category>
+    <category label="News" term="News" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>The Week That Perished</title>
+    <link href="https://www.takimag.com/article/the-week-that-perished-6/" rel="alternate" type="text/html">
+    </link>
+    <published>Sun, 23 Sep 2018 07:55:10 +0000</published>
+    <updated>Sun, 23 Sep 2018 07:55:10 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category scheme="" label="Cultural Caviar" term="Cultural Caviar">
+    </category>
+    <category term="News" label="News" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>The Week That Perished</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the-week-that-perished-5/">
+    </link>
+    <published>Sun, 16 Sep 2018 07:32:32 +0000</published>
+    <updated>Sun, 16 Sep 2018 07:32:32 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category label="Cultural Caviar" term="Cultural Caviar" scheme="">
+    </category>
+    <category label="News" term="News" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>Global Refugee Roundup: End-of-Summer Edition</title>
+    <link href="https://www.takimag.com/article/global-refugee-roundup-end-of-summer-edition/" rel="alternate" type="text/html">
+    </link>
+    <published>Thu, 13 Sep 2018 06:01:05 +0000</published>
+    <updated>Thu, 13 Sep 2018 06:01:05 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category scheme="" label="Issue of the Century" term="Issue of the Century">
+    </category>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>The Week That Perished</title>
+    <link href="https://www.takimag.com/article/the_week_that_perished_may_6_2018_takimag/" type="text/html" rel="alternate">
+    </link>
+    <published>Sun, 06 May 2018 04:01:23 +0000</published>
+    <updated>Sun, 06 May 2018 04:01:23 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category label="Cultural Caviar" term="Cultural Caviar" scheme="">
+    </category>
+    <category scheme="" label="News" term="News">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>Gag Reflex</title>
+    <link href="https://www.takimag.com/article/gag_reflex/" rel="alternate" type="text/html">
+    </link>
+    <published>Thu, 29 Mar 2018 04:03:25 +0000</published>
+    <updated>Thu, 29 Mar 2018 04:03:25 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+    <category scheme="" term="Under the White Flag" label="Under the White Flag">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by The Editors </subtitle>
+  <entry>
+    <title>The Week That Perished</title>
+    <link href="https://www.takimag.com/article/the_week_that_perished_takimag_september_4_2016/" type="text/html" rel="alternate">
+    </link>
+    <published>Sun, 04 Sep 2016 04:05:40 +0000</published>
+    <updated>Sun, 04 Sep 2016 04:05:40 +0000</updated>
+    <author>
+      <name>The Editors</name>
+      <email>takimag@gmail.com</email>
+      <uri>/contributor/theeditors/50</uri>
+    </author>
+    <category scheme="" label="Cultural Caviar" term="Cultural Caviar">
+    </category>
+    <category scheme="" term="News" label="News">
+    </category>
+  </entry>
+</feed>

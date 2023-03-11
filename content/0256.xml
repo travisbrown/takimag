@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Phil Williams </subtitle>
+  <entry>
+    <title>Too Pretty for Politics</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/too_pretty_for_politics/">
+    </link>
+    <published>Fri, 23 Sep 2011 17:13:03 +0000</published>
+    <updated>Fri, 23 Sep 2011 17:13:03 +0000</updated>
+    <author>
+      <name>Phil Williams</name>
+      <email>phil@takimag.com</email>
+      <uri>/contributor/PhilWilliams/256</uri>
+    </author>
+    <category term="Afternoon Delight" label="Afternoon Delight" scheme="">
+    </category>
+    <category scheme="" label="Cultural Caviar" term="Cultural Caviar">
+    </category>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+  </entry>
+</feed>

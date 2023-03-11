@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>Bastille Day is Bunk</title>
+    <link rel="alternate" href="https://www.takimag.com/article/bastille_day_is_bunk/" type="text/html">
+    </link>
+    <published>Wed, 14 Jul 2010 04:00:54 +0000</published>
+    <updated>Wed, 14 Jul 2010 04:00:54 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category term="Idiocracy" label="Idiocracy" scheme="">
+    </category>
+    <category label="Politics" term="Politics" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>They Really Meant It</title>
+    <link href="https://www.takimag.com/article/they_really_meant_it/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 21 Sep 2009 18:38:10 +0000</published>
+    <updated>Mon, 21 Sep 2009 18:38:10 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category label="Law" term="Law" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>The Genuine Article</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/the_genuine_article/">
+    </link>
+    <published>Tue, 08 Sep 2009 05:39:00 +0000</published>
+    <updated>Tue, 08 Sep 2009 05:39:00 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category term="Law" scheme="" label="Law">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>Phony Originalism</title>
+    <link href="https://www.takimag.com/article/phony_originalism/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 03 Aug 2009 12:55:38 +0000</published>
+    <updated>Mon, 03 Aug 2009 12:55:38 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category term="Law" scheme="" label="Law">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>The Frank Ricci Indecision</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the_frank_ricci_indecision/">
+    </link>
+    <published>Tue, 07 Jul 2009 16:25:10 +0000</published>
+    <updated>Tue, 07 Jul 2009 16:25:10 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category label="Law" scheme="" term="Law">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>When Tom Met Sally</title>
+    <link type="text/html" href="https://www.takimag.com/article/when_tom_met_sally/" rel="alternate">
+    </link>
+    <published>Mon, 29 Jun 2009 14:11:37 +0000</published>
+    <updated>Mon, 29 Jun 2009 14:11:37 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category term="Love" scheme="" label="Love">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>A Dubious Victory</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/a_dubious_victory/">
+    </link>
+    <published>Wed, 29 Apr 2009 16:29:55 +0000</published>
+    <updated>Wed, 29 Apr 2009 16:29:55 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category scheme="" label="Guns" term="Guns">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>The Book of Ruth</title>
+    <link type="text/html" href="https://www.takimag.com/article/the_book_of_ruth/" rel="alternate">
+    </link>
+    <published>Fri, 17 Apr 2009 20:17:52 +0000</published>
+    <updated>Fri, 17 Apr 2009 20:17:52 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category term="Law" scheme="" label="Law">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>Faith of Our Fathers</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/faith_of_our_fathers/">
+    </link>
+    <published>Mon, 13 Apr 2009 11:15:40 +0000</published>
+    <updated>Mon, 13 Apr 2009 11:15:40 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category scheme="" label="Uncategorized" term="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>The Obamanoid Constitution</title>
+    <link type="text/html" href="https://www.takimag.com/article/the_obamanoid_constitution/" rel="alternate">
+    </link>
+    <published>Thu, 05 Mar 2009 16:02:24 +0000</published>
+    <updated>Thu, 05 Mar 2009 16:02:24 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category label="Uncategorized" scheme="" term="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>The Birth of a Notion”National “Purpose”</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/the_birth_of_a_notionnational_purpose/">
+    </link>
+    <published>Mon, 12 Jan 2009 07:14:38 +0000</published>
+    <updated>Mon, 12 Jan 2009 07:14:38 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category scheme="" term="Uncategorized" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>Too Early To Tell</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/too_early_to_tell/">
+    </link>
+    <published>Wed, 17 Dec 2008 20:06:00 +0000</published>
+    <updated>Wed, 17 Dec 2008 20:06:00 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category term="History" label="History" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>Bad Paper”How the Fed Bailed on the Constitution</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/bad_paperhow_the_fed_bailed_on_the_constitution/">
+    </link>
+    <published>Mon, 29 Sep 2008 12:31:00 +0000</published>
+    <updated>Mon, 29 Sep 2008 12:31:00 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>Farewell to the Gipper</title>
+    <link href="https://www.takimag.com/article/farewell_to_the_gipper/" rel="alternate" type="text/html">
+    </link>
+    <published>Thu, 11 Sep 2008 12:37:00 +0000</published>
+    <updated>Thu, 11 Sep 2008 12:37:00 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category scheme="" label="Conservatism" term="Conservatism">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Kevin R. C. Gutzman </subtitle>
+  <entry>
+    <title>Joe Biden’s Constitution</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/joe_bidens_constitution/">
+    </link>
+    <published>Wed, 27 Aug 2008 13:39:01 +0000</published>
+    <updated>Wed, 27 Aug 2008 13:39:01 +0000</updated>
+    <author>
+      <name>Kevin R. C. Gutzman</name>
+      <email>KGutzman@takimag.com</email>
+      <uri>/contributor/kevingutzman/75</uri>
+    </author>
+    <category term="Law" scheme="" label="Law">
+    </category>
+  </entry>
+</feed>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Elizabeth Wright </subtitle>
+  <entry>
+    <title>The Hate Industry</title>
+    <link href="https://www.takimag.com/article/the_hate_industry/" rel="alternate" type="text/html">
+    </link>
+    <published>Fri, 23 Oct 2009 15:53:10 +0000</published>
+    <updated>Fri, 23 Oct 2009 15:53:10 +0000</updated>
+    <author>
+      <name>Elizabeth Wright</name>
+      <email>issues@issues.cnc.net</email>
+      <uri>/contributor/elizabethwright/159</uri>
+    </author>
+    <category term="Culture" scheme="" label="Culture">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Elizabeth Wright </subtitle>
+  <entry>
+    <title>Dredging Up the Past</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/dredging_up_the_past/">
+    </link>
+    <published>Thu, 17 Sep 2009 05:46:18 +0000</published>
+    <updated>Thu, 17 Sep 2009 05:46:18 +0000</updated>
+    <author>
+      <name>Elizabeth Wright</name>
+      <email>issues@issues.cnc.net</email>
+      <uri>/contributor/elizabethwright/159</uri>
+    </author>
+    <category term="Culture" scheme="" label="Culture">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Elizabeth Wright </subtitle>
+  <entry>
+    <title>Revolt of an Elite</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/revolt_of_an_elite/">
+    </link>
+    <published>Sat, 25 Jul 2009 19:10:05 +0000</published>
+    <updated>Sat, 25 Jul 2009 19:10:05 +0000</updated>
+    <author>
+      <name>Elizabeth Wright</name>
+      <email>issues@issues.cnc.net</email>
+      <uri>/contributor/elizabethwright/159</uri>
+    </author>
+    <category scheme="" label="GatesGate" term="GatesGate">
+    </category>
+  </entry>
+</feed>

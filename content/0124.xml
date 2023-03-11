@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by John R. Schindler </subtitle>
+  <entry>
+    <title>Mumbai 2008/Sarajevo 1914</title>
+    <link type="text/html" href="https://www.takimag.com/article/mumbai_2008_sarajevo_1914/" rel="alternate">
+    </link>
+    <published>Mon, 08 Dec 2008 06:02:00 +0000</published>
+    <updated>Mon, 08 Dec 2008 06:02:00 +0000</updated>
+    <author>
+      <name>John R. Schindler</name>
+      <email>johnschindler@takimag.com</email>
+      <uri>/contributor/johnschindler/124</uri>
+    </author>
+    <category label="Foreign Policy" term="Foreign Policy" scheme="">
+    </category>
+  </entry>
+</feed>

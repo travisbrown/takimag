@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Hubert Collins </subtitle>
+  <entry>
+    <title>What Kind of Pornography Should Be Banned?</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/what_kind_of_pornography_should_be_banned_hubert_collins/">
+    </link>
+    <published>Fri, 06 Jul 2018 03:59:59 +0000</published>
+    <updated>Fri, 06 Jul 2018 03:59:59 +0000</updated>
+    <author>
+      <name>Hubert Collins</name>
+      <email>HubertCollins@protonmail.com</email>
+      <uri>/contributor/Hubert Collins/364</uri>
+    </author>
+    <category label="Cultural Caviar" scheme="" term="Cultural Caviar">
+    </category>
+    <category label="Home Front" scheme="" term="Home Front">
+    </category>
+  </entry>
+</feed>

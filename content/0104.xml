@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Brendan O'Neill </subtitle>
+  <entry>
+    <title>Who Killed the Enlightenment?</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/who_killed_the_enlightenment_brendan_oneill/">
+    </link>
+    <published>Wed, 21 Jan 2015 04:01:32 +0000</published>
+    <updated>Wed, 21 Jan 2015 04:01:32 +0000</updated>
+    <author>
+      <name>BrendanOneill</name>
+      <email>Brendan.ONeill@spiked-online.com</email>
+      <uri>/contributor/BrendanOneill/104</uri>
+    </author>
+    <category label="Politics" scheme="" term="Politics">
+    </category>
+    <category term="The Untold Story" scheme="" label="The Untold Story">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Brendan O'Neill </subtitle>
+  <entry>
+    <title>World War Webcam</title>
+    <link href="https://www.takimag.com/article/world_war_webcam_brendan_oneill/" rel="alternate" type="text/html">
+    </link>
+    <published>Thu, 15 May 2014 04:01:54 +0000</published>
+    <updated>Thu, 15 May 2014 04:01:54 +0000</updated>
+    <author>
+      <name>BrendanOneill</name>
+      <email>Brendan.ONeill@spiked-online.com</email>
+      <uri>/contributor/BrendanOneill/104</uri>
+    </author>
+    <category label="Politics" scheme="" term="Politics">
+    </category>
+    <category scheme="" label="Trending" term="Trending">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Brendan O'Neill </subtitle>
+  <entry>
+    <title>God, Gaga, and John Kerry on the Dark Continent</title>
+    <link rel="alternate" href="https://www.takimag.com/article/god_and_gaga_on_the_dark_continent_brendan_oneill/" type="text/html">
+    </link>
+    <published>Tue, 25 Mar 2014 04:01:42 +0000</published>
+    <updated>Tue, 25 Mar 2014 04:01:42 +0000</updated>
+    <author>
+      <name>BrendanOneill</name>
+      <email>Brendan.ONeill@spiked-online.com</email>
+      <uri>/contributor/BrendanOneill/104</uri>
+    </author>
+    <category term="Africa" label="Africa" scheme="">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Brendan O'Neill </subtitle>
+  <entry>
+    <title>Empty Promise”Barack Obama and the Death of the American Dream</title>
+    <link href="https://www.takimag.com/article/empty_promisebarack_obama_and_the_death_of_the_american_dream/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 15 Sep 2008 12:09:00 +0000</published>
+    <updated>Mon, 15 Sep 2008 12:09:00 +0000</updated>
+    <author>
+      <name>BrendanOneill</name>
+      <email>Brendan.ONeill@spiked-online.com</email>
+      <uri>/contributor/BrendanOneill/104</uri>
+    </author>
+    <category label="Uncategorized" scheme="" term="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Brendan O'Neill </subtitle>
+  <entry>
+    <title>Yellow Peril!”How the Beijing Olympics Became the Most Politicized Show on Earth</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/yellow_perilhow_the_beijing_olympics_became_the_most_politicized_show_on_ea/">
+    </link>
+    <published>Wed, 20 Aug 2008 03:08:00 +0000</published>
+    <updated>Wed, 20 Aug 2008 03:08:00 +0000</updated>
+    <author>
+      <name>BrendanOneill</name>
+      <email>Brendan.ONeill@spiked-online.com</email>
+      <uri>/contributor/BrendanOneill/104</uri>
+    </author>
+    <category label="Uncategorized" term="Uncategorized" scheme="">
+    </category>
+  </entry>
+</feed>

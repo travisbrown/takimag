@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Aya Burweila </subtitle>
+  <entry>
+    <title>No “Grecovery” in Sight</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/no_grecovery_in_sight/">
+    </link>
+    <published>Wed, 02 Oct 2013 04:02:11 +0000</published>
+    <updated>Wed, 02 Oct 2013 04:02:11 +0000</updated>
+    <author>
+      <name>Aya Burweila</name>
+      <email>a.burweila@yahoo.com</email>
+      <uri>/contributor/AyaBurweila/176</uri>
+    </author>
+    <category scheme="" term="Afternoon Delight" label="Afternoon Delight">
+    </category>
+    <category term="Commerce" scheme="" label="Commerce">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Aya Burweila </subtitle>
+  <entry>
+    <title>Theopsy’s Revolution Now! is Political, Whether He Likes it or Not</title>
+    <link href="https://www.takimag.com/article/theopsys_revolution_now_is_political_whether_he_likes_it_or_not/" type="text/html" rel="alternate">
+    </link>
+    <published>Mon, 28 Jun 2010 04:00:57 +0000</published>
+    <updated>Mon, 28 Jun 2010 04:00:57 +0000</updated>
+    <author>
+      <name>Aya Burweila</name>
+      <email>a.burweila@yahoo.com</email>
+      <uri>/contributor/AyaBurweila/176</uri>
+    </author>
+    <category label="Modern Art" term="Modern Art" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Aya Burweila </subtitle>
+  <entry>
+    <title>Will Greece Rise from the Dust?</title>
+    <link type="text/html" href="https://www.takimag.com/article/will_greece_rise_from_the_dust/" rel="alternate">
+    </link>
+    <published>Tue, 25 May 2010 02:03:25 +0000</published>
+    <updated>Tue, 25 May 2010 02:03:25 +0000</updated>
+    <author>
+      <name>Aya Burweila</name>
+      <email>a.burweila@yahoo.com</email>
+      <uri>/contributor/AyaBurweila/176</uri>
+    </author>
+    <category term="International Affairs" label="International Affairs" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Aya Burweila </subtitle>
+  <entry>
+    <title>Cultural Jihad and the Subversion of Freedom</title>
+    <link href="https://www.takimag.com/article/cultural_jihad_and_the_subversion_of_freedom/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 15 Mar 2010 05:00:29 +0000</published>
+    <updated>Mon, 15 Mar 2010 05:00:29 +0000</updated>
+    <author>
+      <name>Aya Burweila</name>
+      <email>a.burweila@yahoo.com</email>
+      <uri>/contributor/AyaBurweila/176</uri>
+    </author>
+    <category term="Human Rights" scheme="" label="Human Rights">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Aya Burweila </subtitle>
+  <entry>
+    <title>Anarchistan in Athens</title>
+    <link href="https://www.takimag.com/article/anarchistan_in_athens/" rel="alternate" type="text/html">
+    </link>
+    <published>Fri, 22 Jan 2010 05:05:31 +0000</published>
+    <updated>Fri, 22 Jan 2010 05:05:31 +0000</updated>
+    <author>
+      <name>Aya Burweila</name>
+      <email>a.burweila@yahoo.com</email>
+      <uri>/contributor/AyaBurweila/176</uri>
+    </author>
+    <category term="Heart of Darkness" label="Heart of Darkness" scheme="">
+    </category>
+  </entry>
+</feed>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Sean Gabb </subtitle>
+  <entry>
+    <title>Let Us Have Gay Marriage, But not Yet</title>
+    <link type="text/html" href="https://www.takimag.com/article/let_us_have_gay_marriage_but_not_yet_sean_gabb/" rel="alternate">
+    </link>
+    <published>Sun, 17 Feb 2013 04:00:36 +0000</published>
+    <updated>Sun, 17 Feb 2013 04:00:36 +0000</updated>
+    <author>
+      <name>Sean Gabb</name>
+      <email>sean@libertarian.co.uk</email>
+      <uri>/contributor/Sean Gabb/300</uri>
+    </author>
+    <category scheme="" term="British Politics" label="British Politics">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Sean Gabb </subtitle>
+  <entry>
+    <title>Why Obama is Good for England</title>
+    <link href="https://www.takimag.com/article/why_obama_is_good_for_england_sean_gabb/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 12 Nov 2012 04:00:29 +0000</published>
+    <updated>Mon, 12 Nov 2012 04:00:29 +0000</updated>
+    <author>
+      <name>Sean Gabb</name>
+      <email>sean@libertarian.co.uk</email>
+      <uri>/contributor/Sean Gabb/300</uri>
+    </author>
+    <category term="International Affairs" label="International Affairs" scheme="">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Sean Gabb </subtitle>
+  <entry>
+    <title>In Defense of English Civilization</title>
+    <link type="text/html" href="https://www.takimag.com/article/in_defense_of_english_civilization_sean_gabb/" rel="alternate">
+    </link>
+    <published>Wed, 24 Oct 2012 04:00:51 +0000</published>
+    <updated>Wed, 24 Oct 2012 04:00:51 +0000</updated>
+    <author>
+      <name>Sean Gabb</name>
+      <email>sean@libertarian.co.uk</email>
+      <uri>/contributor/Sean Gabb/300</uri>
+    </author>
+    <category term="British Politics" label="British Politics" scheme="">
+    </category>
+  </entry>
+</feed>

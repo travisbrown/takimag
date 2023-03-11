@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Takuan Seiyo </subtitle>
+  <entry>
+    <title>Robert E. Lee’s Final Surrender</title>
+    <link href="https://www.takimag.com/article/robert_e_lees_final_surrender/" type="text/html" rel="alternate">
+    </link>
+    <published>Sat, 08 Oct 2011 04:00:50 +0000</published>
+    <updated>Sat, 08 Oct 2011 04:00:50 +0000</updated>
+    <author>
+      <name>Takuan Seiyo</name>
+      <email>taksei@gol.com</email>
+      <uri>/contributor/TakuanSeiyo/252</uri>
+    </author>
+    <category scheme="" label="Cultural Caviar" term="Cultural Caviar">
+    </category>
+    <category term="PC World" scheme="" label="PC World">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Takuan Seiyo </subtitle>
+  <entry>
+    <title>Gelded Men and Insane Socialist Women</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/gelded_men_and_insane_socialist_women/">
+    </link>
+    <published>Wed, 14 Sep 2011 04:05:13 +0000</published>
+    <updated>Wed, 14 Sep 2011 04:05:13 +0000</updated>
+    <author>
+      <name>Takuan Seiyo</name>
+      <email>taksei@gol.com</email>
+      <uri>/contributor/TakuanSeiyo/252</uri>
+    </author>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+    <category label="Politics" scheme="" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Takuan Seiyo </subtitle>
+  <entry>
+    <title>They Too</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/they_too/">
+    </link>
+    <published>Wed, 24 Aug 2011 04:02:49 +0000</published>
+    <updated>Wed, 24 Aug 2011 04:02:49 +0000</updated>
+    <author>
+      <name>Takuan Seiyo</name>
+      <email>taksei@gol.com</email>
+      <uri>/contributor/TakuanSeiyo/252</uri>
+    </author>
+    <category label="Politics" scheme="" term="Politics">
+    </category>
+    <category scheme="" label="Vile Bodies" term="Vile Bodies">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Takuan Seiyo </subtitle>
+  <entry>
+    <title>They</title>
+    <link type="text/html" href="https://www.takimag.com/article/they/" rel="alternate">
+    </link>
+    <published>Thu, 11 Aug 2011 04:01:53 +0000</published>
+    <updated>Thu, 11 Aug 2011 04:01:53 +0000</updated>
+    <author>
+      <name>Takuan Seiyo</name>
+      <email>taksei@gol.com</email>
+      <uri>/contributor/TakuanSeiyo/252</uri>
+    </author>
+    <category term="Cultural Caviar" label="Cultural Caviar" scheme="">
+    </category>
+    <category label="Politics" term="Politics" scheme="">
+    </category>
+    <category scheme="" label="Vile Bodies" term="Vile Bodies">
+    </category>
+  </entry>
+</feed>

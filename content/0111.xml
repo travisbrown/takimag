@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by David Gordon </subtitle>
+  <entry>
+    <title>Richard Posner is a Suicide Pact</title>
+    <link type="text/html" href="https://www.takimag.com/article/richard_posner_is_a_suicide_pact/" rel="alternate">
+    </link>
+    <published>Thu, 10 Sep 2009 19:28:47 +0000</published>
+    <updated>Thu, 10 Sep 2009 19:28:47 +0000</updated>
+    <author>
+      <name>David Gordon</name>
+      <email>dgordon@mises.com</email>
+      <uri>/contributor/davidgordon/111</uri>
+    </author>
+    <category label="National Bankruptcy" term="National Bankruptcy" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by David Gordon </subtitle>
+  <entry>
+    <title>Richard Neuhaus”The Failures of a “Public Intellectual”</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/richard_neuhausthe_failures_of_a_public_intellectual/">
+    </link>
+    <published>Mon, 18 May 2009 05:10:17 +0000</published>
+    <updated>Mon, 18 May 2009 05:10:17 +0000</updated>
+    <author>
+      <name>David Gordon</name>
+      <email>dgordon@mises.com</email>
+      <uri>/contributor/davidgordon/111</uri>
+    </author>
+    <category scheme="" term="Culture" label="Culture">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by David Gordon </subtitle>
+  <entry>
+    <title>War Socialism</title>
+    <link href="https://www.takimag.com/article/war_socialism/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 20 Apr 2009 12:43:09 +0000</published>
+    <updated>Mon, 20 Apr 2009 12:43:09 +0000</updated>
+    <author>
+      <name>David Gordon</name>
+      <email>dgordon@mises.com</email>
+      <uri>/contributor/davidgordon/111</uri>
+    </author>
+    <category scheme="" term="National Bankruptcy" label="National Bankruptcy">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by David Gordon </subtitle>
+  <entry>
+    <title>Money For Nothing</title>
+    <link type="text/html" href="https://www.takimag.com/article/money_for_nothing/" rel="alternate">
+    </link>
+    <published>Tue, 27 Jan 2009 14:39:00 +0000</published>
+    <updated>Tue, 27 Jan 2009 14:39:00 +0000</updated>
+    <author>
+      <name>David Gordon</name>
+      <email>dgordon@mises.com</email>
+      <uri>/contributor/davidgordon/111</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by David Gordon </subtitle>
+  <entry>
+    <title>All That Glitters”A Financial History of the World</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/all_that_glittersa_financial_history_of_the_world/">
+    </link>
+    <published>Mon, 29 Dec 2008 23:30:00 +0000</published>
+    <updated>Mon, 29 Dec 2008 23:30:00 +0000</updated>
+    <author>
+      <name>David Gordon</name>
+      <email>dgordon@mises.com</email>
+      <uri>/contributor/davidgordon/111</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by David Gordon </subtitle>
+  <entry>
+    <title>We Will Berry You!”The Flaky Socialism of the Crunchy Cons</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/we_will_berry_youthe_flaky_socialism_of_the_crunchy_cons/">
+    </link>
+    <published>Thu, 25 Sep 2008 05:06:01 +0000</published>
+    <updated>Thu, 25 Sep 2008 05:06:01 +0000</updated>
+    <author>
+      <name>David Gordon</name>
+      <email>dgordon@mises.com</email>
+      <uri>/contributor/davidgordon/111</uri>
+    </author>
+    <category term="Uncategorized" label="Uncategorized" scheme="">
+    </category>
+  </entry>
+</feed>

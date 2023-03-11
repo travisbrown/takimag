@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>Chicago Hope</title>
+    <link href="https://www.takimag.com/article/chicago_hope_james_miller/" rel="alternate" type="text/html">
+    </link>
+    <published>Sun, 23 Jul 2017 04:01:02 +0000</published>
+    <updated>Sun, 23 Jul 2017 04:01:02 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category term="Education" scheme="" label="Education">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>Those Sweet, Surly Bonds of Earth</title>
+    <link href="https://www.takimag.com/article/those_sweet_surly_bonds_of_earth_james_miller/" rel="alternate" type="text/html">
+    </link>
+    <published>Fri, 06 Jan 2017 04:02:12 +0000</published>
+    <updated>Fri, 06 Jan 2017 04:02:12 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category label="Cultural Caviar" term="Cultural Caviar" scheme="">
+    </category>
+    <category scheme="" label="Deep Thoughts" term="Deep Thoughts">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>These Crazy Pills Taste Like Sour Grapes</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/these_crazy_pills_taste_like_sour_grapes_james_miller/">
+    </link>
+    <published>Mon, 12 Dec 2016 04:00:43 +0000</published>
+    <updated>Mon, 12 Dec 2016 04:00:43 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+    <category term="Zeitgeist" label="Zeitgeist" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>All Hail Lord Zuckerberg!</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/all_hail_lord_zuckerberg_james_miller/">
+    </link>
+    <published>Fri, 18 Nov 2016 04:02:04 +0000</published>
+    <updated>Fri, 18 Nov 2016 04:02:04 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category scheme="" label="Cultural Caviar" term="Cultural Caviar">
+    </category>
+    <category term="Media" scheme="" label="Media">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>“NR” Is Not Relevant</title>
+    <link rel="alternate" href="https://www.takimag.com/article/nr_is_not_relevant_james_miller/" type="text/html">
+    </link>
+    <published>Fri, 11 Nov 2016 04:01:00 +0000</published>
+    <updated>Fri, 11 Nov 2016 04:01:00 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category scheme="" term="Media" label="Media">
+    </category>
+    <category scheme="" term="Politics" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>Stop the Press!</title>
+    <link href="https://www.takimag.com/article/stop_the_press_james_miller/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 24 Oct 2016 04:00:23 +0000</published>
+    <updated>Mon, 24 Oct 2016 04:00:23 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category label="Media" scheme="" term="Media">
+    </category>
+    <category label="Politics" scheme="" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>Neo Realism</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/neo_realism_james_miller/">
+    </link>
+    <published>Tue, 11 Oct 2016 04:00:01 +0000</published>
+    <updated>Tue, 11 Oct 2016 04:00:01 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+    <category term="Huh" scheme="" label="Huh">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>An Epidemic of Clowns</title>
+    <link type="text/html" href="https://www.takimag.com/article/an_epidemic_of_clowns_james_miller/" rel="alternate">
+    </link>
+    <published>Wed, 05 Oct 2016 04:00:46 +0000</published>
+    <updated>Wed, 05 Oct 2016 04:00:46 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category term="Cultural Caviar" label="Cultural Caviar" scheme="">
+    </category>
+    <category term="Kids Today" scheme="" label="Kids Today">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>Identity Crisis</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/identity_crisis_james_miller/">
+    </link>
+    <published>Thu, 08 Sep 2016 04:00:28 +0000</published>
+    <updated>Thu, 08 Sep 2016 04:00:28 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+    <category term="Zeitgeist" scheme="" label="Zeitgeist">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>A Slow Drifting Apart</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/a_slow_drifting_apart_james_miller/">
+    </link>
+    <published>Wed, 24 Aug 2016 04:00:50 +0000</published>
+    <updated>Wed, 24 Aug 2016 04:00:50 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>Erickson’s Unholy Crusade</title>
+    <link rel="alternate" href="https://www.takimag.com/article/ericksons_unholy_crusade_james_miller/" type="text/html">
+    </link>
+    <published>Thu, 11 Aug 2016 04:00:55 +0000</published>
+    <updated>Thu, 11 Aug 2016 04:00:55 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category scheme="" label="Media" term="Media">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>Liabilities of Liberalism</title>
+    <link href="https://www.takimag.com/article/liabilities_of_liberalism_james_miller/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 25 Jul 2016 04:02:29 +0000</published>
+    <updated>Mon, 25 Jul 2016 04:02:29 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+    <category term="Zeitgeist" scheme="" label="Zeitgeist">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>Johnson’s Rise and Imminent Fall</title>
+    <link href="https://www.takimag.com/article/johnsons_rise_and_imminent_fall_james_miller/" rel="alternate" type="text/html">
+    </link>
+    <published>Thu, 23 Jun 2016 04:02:16 +0000</published>
+    <updated>Thu, 23 Jun 2016 04:02:16 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category label="Elections" term="Elections" scheme="">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>Fourth Estate Hate</title>
+    <link href="https://www.takimag.com/article/fourth_estate_hate_james_miller/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 06 Jun 2016 04:00:29 +0000</published>
+    <updated>Mon, 06 Jun 2016 04:00:29 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category scheme="" label="Media" term="Media">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by James E. Miller </subtitle>
+  <entry>
+    <title>Give Me Liberty or Give Me Something Better</title>
+    <link rel="alternate" href="https://www.takimag.com/article/give_me_liberty_or_give_me_something_better_james_miller/" type="text/html">
+    </link>
+    <published>Thu, 19 May 2016 04:00:25 +0000</published>
+    <updated>Thu, 19 May 2016 04:00:25 +0000</updated>
+    <author>
+      <name>James E. Miller</name>
+      <email>miller.james.edward@gmail.com</email>
+      <uri>/contributor/James Miller/315</uri>
+    </author>
+    <category label="Politics" scheme="" term="Politics">
+    </category>
+  </entry>
+</feed>

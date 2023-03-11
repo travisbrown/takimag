@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Allen Mendenhall </subtitle>
+  <entry>
+    <title>Phantoms of Terror</title>
+    <link href="https://www.takimag.com/article/phantoms_of_terror_allen_mendenhall/" rel="alternate" type="text/html">
+    </link>
+    <published>Wed, 29 Apr 2015 04:00:55 +0000</published>
+    <updated>Wed, 29 Apr 2015 04:00:55 +0000</updated>
+    <author>
+      <name>Allen Mendenhall</name>
+      <email>allenporte@yahoo.com</email>
+      <uri>/contributor/AllenMendenhall/229</uri>
+    </author>
+    <category scheme="" term="Cultural Caviar" label="Cultural Caviar">
+    </category>
+    <category scheme="" term="Lit Crit" label="Lit Crit">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Allen Mendenhall </subtitle>
+  <entry>
+    <title>The Will to Powerlessness</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the_will_to_powerlessness/">
+    </link>
+    <published>Mon, 05 Sep 2011 04:00:10 +0000</published>
+    <updated>Mon, 05 Sep 2011 04:00:10 +0000</updated>
+    <author>
+      <name>Allen Mendenhall</name>
+      <email>allenporte@yahoo.com</email>
+      <uri>/contributor/AllenMendenhall/229</uri>
+    </author>
+    <category label="PC World" scheme="" term="PC World">
+    </category>
+    <category scheme="" term="Politics" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Allen Mendenhall </subtitle>
+  <entry>
+    <title>How Long Must Okinawans Wait?</title>
+    <link type="text/html" href="https://www.takimag.com/article/how_long_must_okinawans_wait/" rel="alternate">
+    </link>
+    <published>Tue, 11 Jan 2011 04:00:11 +0000</published>
+    <updated>Tue, 11 Jan 2011 04:00:11 +0000</updated>
+    <author>
+      <name>Allen Mendenhall</name>
+      <email>allenporte@yahoo.com</email>
+      <uri>/contributor/AllenMendenhall/229</uri>
+    </author>
+    <category scheme="" label="International Affairs" term="International Affairs">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+</feed>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Jack Salem </subtitle>
+  <entry>
+    <title>No Place for Hyphenated Americans</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/no_place_for_hyphenated_americans/">
+    </link>
+    <published>Fri, 03 Feb 2012 04:00:36 +0000</published>
+    <updated>Fri, 03 Feb 2012 04:00:36 +0000</updated>
+    <author>
+      <name>Jack Salem</name>
+      <email>salemla@verizon.net</email>
+      <uri>/contributor/JackSalem/277</uri>
+    </author>
+    <category scheme="" label="Multiculturalism" term="Multiculturalism">
+    </category>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+  </entry>
+</feed>

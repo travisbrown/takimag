@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Mike Pauls </subtitle>
+  <entry>
+    <title>Art Shams and Political Scams</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/art_shams_and_political_scams/">
+    </link>
+    <published>Fri, 09 Dec 2011 04:01:33 +0000</published>
+    <updated>Fri, 09 Dec 2011 04:01:33 +0000</updated>
+    <author>
+      <name>Mike Pauls</name>
+      <email>michel.pauls@wanadoo.fr</email>
+      <uri>/contributor/MikePauls/221</uri>
+    </author>
+    <category label="Uncategorized" term="Uncategorized" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mike Pauls </subtitle>
+  <entry>
+    <title>Obama’s Eight-Ton Lemon</title>
+    <link href="https://www.takimag.com/article/obamas_eight_ton_lemon/" rel="alternate" type="text/html">
+    </link>
+    <published>Fri, 27 May 2011 04:00:31 +0000</published>
+    <updated>Fri, 27 May 2011 04:00:31 +0000</updated>
+    <author>
+      <name>Mike Pauls</name>
+      <email>michel.pauls@wanadoo.fr</email>
+      <uri>/contributor/MikePauls/221</uri>
+    </author>
+    <category term="Cultural Caviar" label="Cultural Caviar" scheme="">
+    </category>
+    <category label="Tech Overload" term="Tech Overload" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mike Pauls </subtitle>
+  <entry>
+    <title>Obama’s Eight-Ton Lemon</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/obamas_eight_ton_lemon-2/">
+    </link>
+    <published>Fri, 27 May 2011 04:00:31 +0000</published>
+    <updated>Fri, 27 May 2011 04:00:31 +0000</updated>
+    <author>
+      <name>Mike Pauls</name>
+      <email>michel.pauls@wanadoo.fr</email>
+      <uri>/contributor/MikePauls/221</uri>
+    </author>
+    <category scheme="" label="Cultural Caviar" term="Cultural Caviar">
+    </category>
+    <category label="Tech Overload" term="Tech Overload" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mike Pauls </subtitle>
+  <entry>
+    <title>Schmidt’s Demon</title>
+    <link href="https://www.takimag.com/article/schmidts_demon/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 21 Feb 2011 10:28:14 +0000</published>
+    <updated>Mon, 21 Feb 2011 10:28:14 +0000</updated>
+    <author>
+      <name>Mike Pauls</name>
+      <email>michel.pauls@wanadoo.fr</email>
+      <uri>/contributor/MikePauls/221</uri>
+    </author>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+    <category label="Media Death" scheme="" term="Media Death">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mike Pauls </subtitle>
+  <entry>
+    <title>The Ghosts of November</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the_ghosts_of_november/">
+    </link>
+    <published>Thu, 11 Nov 2010 03:59:04 +0000</published>
+    <updated>Thu, 11 Nov 2010 03:59:04 +0000</updated>
+    <author>
+      <name>Mike Pauls</name>
+      <email>michel.pauls@wanadoo.fr</email>
+      <uri>/contributor/MikePauls/221</uri>
+    </author>
+    <category term="Cultural Caviar" scheme="" label="Cultural Caviar">
+    </category>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+  </entry>
+</feed>

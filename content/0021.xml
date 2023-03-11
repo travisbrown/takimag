@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>An American’s Guide to Moving to Australia</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/an_americans_guide_to_moving_to_australia/">
+    </link>
+    <published>Tue, 13 Apr 2010 05:02:52 +0000</published>
+    <updated>Tue, 13 Apr 2010 05:02:52 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category scheme="" label="Travel" term="Travel">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>Paging Dr. House</title>
+    <link href="https://www.takimag.com/article/paging_dr-_house/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 29 Mar 2010 05:00:03 +0000</published>
+    <updated>Mon, 29 Mar 2010 05:00:03 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category label="Mental Health" term="Mental Health" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>Heartbreak Hotel</title>
+    <link href="https://www.takimag.com/article/heartbreak_hotel/" type="text/html" rel="alternate">
+    </link>
+    <published>Tue, 26 Jan 2010 05:00:08 +0000</published>
+    <updated>Tue, 26 Jan 2010 05:00:08 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category label="Haiti" term="Haiti" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>My Short Happy Life As a Knowledge Management Drone</title>
+    <link href="https://www.takimag.com/article/my_short_happy_life_as_a_knowledge_management_drone/" rel="alternate" type="text/html">
+    </link>
+    <published>Thu, 02 Apr 2009 13:58:03 +0000</published>
+    <updated>Thu, 02 Apr 2009 13:58:03 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category term="Torture" scheme="" label="Torture">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>The Hoax Down Under</title>
+    <link href="https://www.takimag.com/article/the_hoax_down_under/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 12 Jan 2009 16:48:23 +0000</published>
+    <updated>Mon, 12 Jan 2009 16:48:23 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category label="Media" scheme="" term="Media">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>The Diversity Meltdown Down Under</title>
+    <link type="text/html" href="https://www.takimag.com/article/the_diversity_meltdown_down_under/" rel="alternate">
+    </link>
+    <published>Wed, 29 Oct 2008 17:12:00 +0000</published>
+    <updated>Wed, 29 Oct 2008 17:12:00 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category label="World" scheme="" term="World">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>20th Century Music”What Went Wrong?</title>
+    <link rel="alternate" href="https://www.takimag.com/article/20th_century_musicwhat_went_wrong/" type="text/html">
+    </link>
+    <published>Thu, 02 Oct 2008 23:40:00 +0000</published>
+    <updated>Thu, 02 Oct 2008 23:40:00 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category scheme="" label="Takimag Classic" term="Takimag Classic">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>Sam Francis &amp; Me</title>
+    <link rel="alternate" href="https://www.takimag.com/article/sam_francis_me/" type="text/html">
+    </link>
+    <published>Mon, 08 Sep 2008 21:11:00 +0000</published>
+    <updated>Mon, 08 Sep 2008 21:11:00 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category term="Remembrance" scheme="" label="Remembrance">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>Buchanan &amp; Lukacs”Getting Personal</title>
+    <link href="https://www.takimag.com/article/buchanan_lukacsgetting_personal/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 02 Jun 2008 13:55:00 +0000</published>
+    <updated>Mon, 02 Jun 2008 13:55:00 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category label="Media" term="Media" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>The Customer is Always Wrong</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/the_customer_is_always_wrong/">
+    </link>
+    <published>Wed, 06 Feb 2008 07:10:00 +0000</published>
+    <updated>Wed, 06 Feb 2008 07:10:00 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category term="Uncategorized" label="Uncategorized" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>The Death of Music by the Spirit of Government Subsidies</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the_death_of_music_by_the_spirit_of_government_subsidies/">
+    </link>
+    <published>Sat, 26 Jan 2008 18:31:00 +0000</published>
+    <updated>Sat, 26 Jan 2008 18:31:00 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category scheme="" label="Uncategorized" term="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>Did I Kill Robert Lowell?</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/did_i_kill_robert_lowell/">
+    </link>
+    <published>Wed, 26 Sep 2007 03:01:00 +0000</published>
+    <updated>Wed, 26 Sep 2007 03:01:00 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category label="Uncategorized" scheme="" term="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>Confessions of an Australian Organist</title>
+    <link type="text/html" href="https://www.takimag.com/article/confessions_of_an_australian_organist/" rel="alternate">
+    </link>
+    <published>Wed, 08 Aug 2007 03:01:00 +0000</published>
+    <updated>Wed, 08 Aug 2007 03:01:00 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>Falstaff in a Fedora</title>
+    <link href="https://www.takimag.com/article/falstaff_in_a_fedora/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 06 Aug 2007 03:01:00 +0000</published>
+    <updated>Mon, 06 Aug 2007 03:01:00 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category term="Uncategorized" label="Uncategorized" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by R.J. Stove </subtitle>
+  <entry>
+    <title>Un-Killing Whitey: The Achievement of Sam Francis</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/un-killing_whitey_the_achievement_of_sam_francis/">
+    </link>
+    <published>Wed, 16 May 2007 03:23:00 +0000</published>
+    <updated>Wed, 16 May 2007 03:23:00 +0000</updated>
+    <author>
+      <name>R.J. Stove</name>
+      <email>rjstove@takimag.com</email>
+      <uri>/contributor/Stove/21</uri>
+    </author>
+    <category term="Uncategorized" label="Uncategorized" scheme="">
+    </category>
+  </entry>
+</feed>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Charles C. Johnson </subtitle>
+  <entry>
+    <title>Black Lies Matter Too</title>
+    <link href="https://www.takimag.com/article/black_lies_matter_too_charles_johnson/" type="text/html" rel="alternate">
+    </link>
+    <published>Mon, 17 Aug 2015 04:00:43 +0000</published>
+    <updated>Mon, 17 Aug 2015 04:00:43 +0000</updated>
+    <author>
+      <name>Charles C. Johnson</name>
+      <email>chuckwalla1022@gmail.com</email>
+      <uri>/contributor/chuckjohnson/334</uri>
+    </author>
+    <category label="Politics" term="Politics" scheme="">
+    </category>
+    <category label="Trending" term="Trending" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Charles C. Johnson </subtitle>
+  <entry>
+    <title>Defeating the Terrorist Organization Known as Gawker</title>
+    <link href="https://www.takimag.com/article/defeating_the_terrorist_organization_known_as_gawker_charles_johnson/" rel="alternate" type="text/html">
+    </link>
+    <published>Thu, 06 Aug 2015 04:01:07 +0000</published>
+    <updated>Thu, 06 Aug 2015 04:01:07 +0000</updated>
+    <author>
+      <name>Charles C. Johnson</name>
+      <email>chuckwalla1022@gmail.com</email>
+      <uri>/contributor/chuckjohnson/334</uri>
+    </author>
+    <category label="Commerce" scheme="" term="Commerce">
+    </category>
+    <category label="Media" term="Media" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Charles C. Johnson </subtitle>
+  <entry>
+    <title>Refugee From Cuckservatism</title>
+    <link rel="alternate" href="https://www.takimag.com/article/refugee_from_cuckservatism_charles_johnson/" type="text/html">
+    </link>
+    <published>Fri, 31 Jul 2015 04:02:04 +0000</published>
+    <updated>Fri, 31 Jul 2015 04:02:04 +0000</updated>
+    <author>
+      <name>Charles C. Johnson</name>
+      <email>chuckwalla1022@gmail.com</email>
+      <uri>/contributor/chuckjohnson/334</uri>
+    </author>
+    <category scheme="" term="Politics" label="Politics">
+    </category>
+    <category label="The Stupid Party" term="The Stupid Party" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Charles C. Johnson </subtitle>
+  <entry>
+    <title>Talking About Illegals With Our Politicians</title>
+    <link rel="alternate" href="https://www.takimag.com/article/talking_about_illegals_with_our_politicians_charles_c_johnson/" type="text/html">
+    </link>
+    <published>Thu, 23 Jul 2015 04:01:30 +0000</published>
+    <updated>Thu, 23 Jul 2015 04:01:30 +0000</updated>
+    <author>
+      <name>Charles C. Johnson</name>
+      <email>chuckwalla1022@gmail.com</email>
+      <uri>/contributor/chuckjohnson/334</uri>
+    </author>
+    <category scheme="" label="Immigration" term="Immigration">
+    </category>
+    <category label="Politics" term="Politics" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Charles C. Johnson </subtitle>
+  <entry>
+    <title>Fight the Pao-er!</title>
+    <link href="https://www.takimag.com/article/fight_the_pao_er_chuck_johnson/" rel="alternate" type="text/html">
+    </link>
+    <published>Tue, 14 Jul 2015 04:01:37 +0000</published>
+    <updated>Tue, 14 Jul 2015 04:01:37 +0000</updated>
+    <author>
+      <name>Charles C. Johnson</name>
+      <email>chuckwalla1022@gmail.com</email>
+      <uri>/contributor/chuckjohnson/334</uri>
+    </author>
+    <category term="Commerce" label="Commerce" scheme="">
+    </category>
+    <category term="Scandal" label="Scandal" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Charles C. Johnson </subtitle>
+  <entry>
+    <title>Sympathy for The Donald</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/sympathy_for_the_donald_charles_c_johnson/">
+    </link>
+    <published>Wed, 08 Jul 2015 04:01:47 +0000</published>
+    <updated>Wed, 08 Jul 2015 04:01:47 +0000</updated>
+    <author>
+      <name>Charles C. Johnson</name>
+      <email>chuckwalla1022@gmail.com</email>
+      <uri>/contributor/chuckjohnson/334</uri>
+    </author>
+    <category scheme="" term="Elections" label="Elections">
+    </category>
+    <category label="Politics" term="Politics" scheme="">
+    </category>
+  </entry>
+</feed>

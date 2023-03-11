@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Paul Wood </subtitle>
+  <entry>
+    <title>Too Many Questions</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/too_many_questions_paul_wood/">
+    </link>
+    <published>Fri, 13 Apr 2018 04:00:45 +0000</published>
+    <updated>Fri, 13 Apr 2018 04:00:45 +0000</updated>
+    <author>
+      <name>Paul Wood</name>
+      <email>pwood@applesearch.co.uk</email>
+      <uri>/contributor/paulwood/329</uri>
+    </author>
+    <category label="International Affairs" term="International Affairs" scheme="">
+    </category>
+    <category scheme="" term="Politics" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Wood </subtitle>
+  <entry>
+    <title>Attacked Again</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/attacked_again_paul_wood/">
+    </link>
+    <published>Fri, 24 Mar 2017 04:01:57 +0000</published>
+    <updated>Fri, 24 Mar 2017 04:01:57 +0000</updated>
+    <author>
+      <name>Paul Wood</name>
+      <email>pwood@applesearch.co.uk</email>
+      <uri>/contributor/paulwood/329</uri>
+    </author>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+    <category term="Public Nuisances" label="Public Nuisances" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Wood </subtitle>
+  <entry>
+    <title>Fear of Conversation</title>
+    <link href="https://www.takimag.com/article/fear_of_conversation_paul_wood/" rel="alternate" type="text/html">
+    </link>
+    <published>Wed, 04 May 2016 04:00:56 +0000</published>
+    <updated>Wed, 04 May 2016 04:00:56 +0000</updated>
+    <author>
+      <name>Paul Wood</name>
+      <email>pwood@applesearch.co.uk</email>
+      <uri>/contributor/paulwood/329</uri>
+    </author>
+    <category label="Politics" term="Politics" scheme="">
+    </category>
+    <category scheme="" term="Two States" label="Two States">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Wood </subtitle>
+  <entry>
+    <title>The Cologne Cover-up</title>
+    <link rel="alternate" href="https://www.takimag.com/article/the_cologne_cover_up_paul_wood/" type="text/html">
+    </link>
+    <published>Fri, 15 Jan 2016 04:00:21 +0000</published>
+    <updated>Fri, 15 Jan 2016 04:00:21 +0000</updated>
+    <author>
+      <name>Paul Wood</name>
+      <email>pwood@applesearch.co.uk</email>
+      <uri>/contributor/paulwood/329</uri>
+    </author>
+    <category label="Europe" scheme="" term="Europe">
+    </category>
+    <category label="Politics" term="Politics" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Wood </subtitle>
+  <entry>
+    <title>Seeking Refuge From Mass Migration</title>
+    <link rel="alternate" href="https://www.takimag.com/article/seeking_refuge_from_mass_migration_paul_wood/" type="text/html">
+    </link>
+    <published>Mon, 07 Sep 2015 04:00:17 +0000</published>
+    <updated>Mon, 07 Sep 2015 04:00:17 +0000</updated>
+    <author>
+      <name>Paul Wood</name>
+      <email>pwood@applesearch.co.uk</email>
+      <uri>/contributor/paulwood/329</uri>
+    </author>
+    <category term="Issue of the Century" label="Issue of the Century" scheme="">
+    </category>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Wood </subtitle>
+  <entry>
+    <title>Romanian Holiday</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/romanian_holiday_paul_wood/">
+    </link>
+    <published>Fri, 28 Aug 2015 04:00:56 +0000</published>
+    <updated>Fri, 28 Aug 2015 04:00:56 +0000</updated>
+    <author>
+      <name>Paul Wood</name>
+      <email>pwood@applesearch.co.uk</email>
+      <uri>/contributor/paulwood/329</uri>
+    </author>
+    <category label="Cultural Caviar" term="Cultural Caviar" scheme="">
+    </category>
+    <category term="Travel" label="Travel" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Wood </subtitle>
+  <entry>
+    <title>First They Came for the Bakers</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/first_they_came_for_the_bakers_paul_wood/">
+    </link>
+    <published>Thu, 21 May 2015 04:00:53 +0000</published>
+    <updated>Thu, 21 May 2015 04:00:53 +0000</updated>
+    <author>
+      <name>Paul Wood</name>
+      <email>pwood@applesearch.co.uk</email>
+      <uri>/contributor/paulwood/329</uri>
+    </author>
+    <category label="Politics" scheme="" term="Politics">
+    </category>
+    <category term="Zeitgeist" scheme="" label="Zeitgeist">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Wood </subtitle>
+  <entry>
+    <title>Refuge from the Refugees</title>
+    <link type="text/html" href="https://www.takimag.com/article/refuge_from_the_refugees_paul_wood/" rel="alternate">
+    </link>
+    <published>Wed, 22 Apr 2015 04:02:30 +0000</published>
+    <updated>Wed, 22 Apr 2015 04:02:30 +0000</updated>
+    <author>
+      <name>Paul Wood</name>
+      <email>pwood@applesearch.co.uk</email>
+      <uri>/contributor/paulwood/329</uri>
+    </author>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+    <category term="Scandal" label="Scandal" scheme="">
+    </category>
+  </entry>
+</feed>

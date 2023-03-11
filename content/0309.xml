@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Barry Wood </subtitle>
+  <entry>
+    <title>The Resurrection of English Murder</title>
+    <link rel="alternate" href="https://www.takimag.com/article/the_resurrection_of_english_murder_barry_wood/" type="text/html">
+    </link>
+    <published>Thu, 16 May 2013 04:00:50 +0000</published>
+    <updated>Thu, 16 May 2013 04:00:50 +0000</updated>
+    <author>
+      <name>Barry Wood</name>
+      <email>bgwood@blueyonder.co.uk</email>
+      <uri>/contributor/barrywood/309</uri>
+    </author>
+    <category scheme="" term="Crime" label="Crime">
+    </category>
+    <category label="Cultural Caviar" term="Cultural Caviar" scheme="">
+    </category>
+  </entry>
+</feed>

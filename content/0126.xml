@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Thomas F. Bertonneau </subtitle>
+  <entry>
+    <title>The Saga of Sluttony</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/the_saga_of_sluttony/">
+    </link>
+    <published>Mon, 29 Dec 2008 04:11:00 +0000</published>
+    <updated>Mon, 29 Dec 2008 04:11:00 +0000</updated>
+    <author>
+      <name>Thomas F. Bertonneau</name>
+      <email>dactylic@verizon.net</email>
+      <uri>/contributor/thomasbertonneau/126</uri>
+    </author>
+    <category term="Bizarro World" label="Bizarro World" scheme="">
+    </category>
+  </entry>
+</feed>

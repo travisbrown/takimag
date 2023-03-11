@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>Dancing on a Hero’s Grave</title>
+    <link href="https://www.takimag.com/article/dancing_on_a_heros_grave_paul_gottfried/" type="text/html" rel="alternate">
+    </link>
+    <published>Wed, 29 May 2013 04:02:10 +0000</published>
+    <updated>Wed, 29 May 2013 04:02:10 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category scheme="" label="Cultural Caviar" term="Cultural Caviar">
+    </category>
+    <category term="Obit" scheme="" label="Obit">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>The Illusion of Difference</title>
+    <link type="text/html" href="https://www.takimag.com/article/the_illusion_of_difference_paul_gottfried/" rel="alternate">
+    </link>
+    <published>Thu, 09 May 2013 04:03:14 +0000</published>
+    <updated>Thu, 09 May 2013 04:03:14 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category label="District of Corruption" term="District of Corruption" scheme="">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>Discrimination in Bridgeport</title>
+    <link rel="alternate" href="https://www.takimag.com/article/discrimination_in_bridgeport_paul_gottfried/" type="text/html">
+    </link>
+    <published>Sat, 29 Dec 2012 04:00:25 +0000</published>
+    <updated>Sat, 29 Dec 2012 04:00:25 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category label="Cultural Caviar" term="Cultural Caviar" scheme="">
+    </category>
+    <category scheme="" term="Looking Back" label="Looking Back">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>Toward a More Diversified Diversity</title>
+    <link type="text/html" href="https://www.takimag.com/article/toward_a_more_diversified_diversity_paul_gottfried/" rel="alternate">
+    </link>
+    <published>Mon, 03 Dec 2012 04:00:02 +0000</published>
+    <updated>Mon, 03 Dec 2012 04:00:02 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category scheme="" label="PC World" term="PC World">
+    </category>
+    <category scheme="" term="Politics" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>Gender-Neutral Societies Suck</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/gender_neutral_societies_suck_paul_gottfried/">
+    </link>
+    <published>Mon, 26 Nov 2012 04:00:53 +0000</published>
+    <updated>Mon, 26 Nov 2012 04:00:53 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category scheme="" label="Bitch, Please!" term="Bitch, Please!">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>A Five-Point Plan to Save the GOP</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/a_five_point_plan_to_save_the_gop_paul_gottfried/">
+    </link>
+    <published>Wed, 14 Nov 2012 04:00:38 +0000</published>
+    <updated>Wed, 14 Nov 2012 04:00:38 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category term="Modest Proposals" scheme="" label="Modest Proposals">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>Russia Scolds America Back</title>
+    <link href="https://www.takimag.com/article/russia_scolds_america_back_paul_gottfried/" type="text/html" rel="alternate">
+    </link>
+    <published>Mon, 29 Oct 2012 04:01:44 +0000</published>
+    <updated>Mon, 29 Oct 2012 04:01:44 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category term="International Affairs" scheme="" label="International Affairs">
+    </category>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>The Impermanence of Labels</title>
+    <link rel="alternate" href="https://www.takimag.com/article/the_impermanence_of_labels_paul_gottfried/" type="text/html">
+    </link>
+    <published>Sun, 07 Oct 2012 04:00:47 +0000</published>
+    <updated>Sun, 07 Oct 2012 04:00:47 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category label="Politics" term="Politics" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>The Late, Great Joe Sobran</title>
+    <link type="text/html" href="https://www.takimag.com/article/the_late_great_joe_sobran_paul_gottfried/" rel="alternate">
+    </link>
+    <published>Mon, 01 Oct 2012 04:00:17 +0000</published>
+    <updated>Mon, 01 Oct 2012 04:00:17 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category scheme="" term="Cultural Caviar" label="Cultural Caviar">
+    </category>
+    <category scheme="" label="Lit Crit" term="Lit Crit">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>Leading From the Front of the Bus</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/leading_from_the_front_of_the_bus_paul_gottfried/">
+    </link>
+    <published>Tue, 04 Sep 2012 04:01:45 +0000</published>
+    <updated>Tue, 04 Sep 2012 04:01:45 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category scheme="" label="Politics" term="Politics">
+    </category>
+    <category label="Toeing the Line" scheme="" term="Toeing the Line">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>The Bashing of Joe Paterno</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/the_bashing_of_joe_paterno_paul_gottfried/">
+    </link>
+    <published>Sat, 04 Aug 2012 04:00:31 +0000</published>
+    <updated>Sat, 04 Aug 2012 04:00:31 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category label="Politics" term="Politics" scheme="">
+    </category>
+    <category label="Scandal" term="Scandal" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>Chick-fil-A Eats Crow</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/chik_fil_a_eats_crow_paul_gottfried/">
+    </link>
+    <published>Sun, 29 Jul 2012 04:00:09 +0000</published>
+    <updated>Sun, 29 Jul 2012 04:00:09 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category label="Cultural Caviar" term="Cultural Caviar" scheme="">
+    </category>
+    <category scheme="" term="Scandal" label="Scandal">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>Institutions of Higher Emoting</title>
+    <link type="text/html" href="https://www.takimag.com/article/institutions_of_higher_emoting_paul_gottfried/" rel="alternate">
+    </link>
+    <published>Wed, 25 Jul 2012 04:00:51 +0000</published>
+    <updated>Wed, 25 Jul 2012 04:00:51 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category label="Cultural Caviar" term="Cultural Caviar" scheme="">
+    </category>
+    <category label="Education" scheme="" term="Education">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>Romney: Reaching Out to Everyone and Pleasing Nobody</title>
+    <link type="text/html" href="https://www.takimag.com/article/romney_reaching_out_to_everyone_and_pleasing_nobody_paul_gottfried/" rel="alternate">
+    </link>
+    <published>Sat, 14 Jul 2012 04:00:11 +0000</published>
+    <updated>Sat, 14 Jul 2012 04:00:11 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category label="Manhunt" term="Manhunt" scheme="">
+    </category>
+    <category label="Politics" scheme="" term="Politics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Paul Gottfried </subtitle>
+  <entry>
+    <title>Perish the Euro</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/perish_the_euro_paul_gottfried/">
+    </link>
+    <published>Wed, 20 Jun 2012 04:01:55 +0000</published>
+    <updated>Wed, 20 Jun 2012 04:01:55 +0000</updated>
+    <author>
+      <name>Paul Gottfried</name>
+      <email>test5@me.com</email>
+      <uri>/contributor/Gottfried/8</uri>
+    </author>
+    <category term="Commerce" scheme="" label="Commerce">
+    </category>
+    <category scheme="" term="Lit Crit" label="Lit Crit">
+    </category>
+  </entry>
+</feed>

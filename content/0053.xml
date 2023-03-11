@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Danilo Breschi </subtitle>
+  <entry>
+    <title>A New Humanism in Europe</title>
+    <link type="text/html" href="https://www.takimag.com/article/a_new_humanism_in_europe/" rel="alternate">
+    </link>
+    <published>Tue, 02 Oct 2007 03:01:00 +0000</published>
+    <updated>Tue, 02 Oct 2007 03:01:00 +0000</updated>
+    <author>
+      <name>Danilo Breschi</name>
+      <email>dbreschi@takimag.com</email>
+      <uri>/contributor/DBreschi/53</uri>
+    </author>
+    <category label="Uncategorized" scheme="" term="Uncategorized">
+    </category>
+  </entry>
+</feed>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Werther </subtitle>
+  <entry>
+    <title>Ozymandias Airlines</title>
+    <link rel="alternate" href="https://www.takimag.com/article/ozymandias_airlines/" type="text/html">
+    </link>
+    <published>Sat, 02 Feb 2008 05:01:00 +0000</published>
+    <updated>Sat, 02 Feb 2008 05:01:00 +0000</updated>
+    <author>
+      <name>Werther</name>
+      <email>werther@takimag.com</email>
+      <uri>/contributor/Werther/47</uri>
+    </author>
+    <category term="Uncategorized" label="Uncategorized" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Werther </subtitle>
+  <entry>
+    <title>Bungle in the Jungle</title>
+    <link rel="alternate" href="https://www.takimag.com/article/bungle_in_the_jungle/" type="text/html">
+    </link>
+    <published>Fri, 04 Jan 2008 05:01:00 +0000</published>
+    <updated>Fri, 04 Jan 2008 05:01:00 +0000</updated>
+    <author>
+      <name>Werther</name>
+      <email>werther@takimag.com</email>
+      <uri>/contributor/Werther/47</uri>
+    </author>
+    <category term="Uncategorized" label="Uncategorized" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Werther </subtitle>
+  <entry>
+    <title>Greenspan’s Gambits</title>
+    <link rel="alternate" href="https://www.takimag.com/article/greenspans_gambits/" type="text/html">
+    </link>
+    <published>Wed, 19 Sep 2007 03:01:01 +0000</published>
+    <updated>Wed, 19 Sep 2007 03:01:01 +0000</updated>
+    <author>
+      <name>Werther</name>
+      <email>werther@takimag.com</email>
+      <uri>/contributor/Werther/47</uri>
+    </author>
+    <category term="Uncategorized" label="Uncategorized" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Werther </subtitle>
+  <entry>
+    <title>Militarism’s Transmission Belt</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/militarisms_transmission_belt/">
+    </link>
+    <published>Wed, 22 Aug 2007 03:01:00 +0000</published>
+    <updated>Wed, 22 Aug 2007 03:01:00 +0000</updated>
+    <author>
+      <name>Werther</name>
+      <email>werther@takimag.com</email>
+      <uri>/contributor/Werther/47</uri>
+    </author>
+    <category label="Uncategorized" scheme="" term="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Werther </subtitle>
+  <entry>
+    <title>The Architecture of Perpetual War</title>
+    <link type="text/html" href="https://www.takimag.com/article/the_architecture_of_perpetual_war/" rel="alternate">
+    </link>
+    <published>Sat, 18 Aug 2007 20:27:00 +0000</published>
+    <updated>Sat, 18 Aug 2007 20:27:00 +0000</updated>
+    <author>
+      <name>Werther</name>
+      <email>werther@takimag.com</email>
+      <uri>/contributor/Werther/47</uri>
+    </author>
+    <category label="Uncategorized" term="Uncategorized" scheme="">
+    </category>
+  </entry>
+</feed>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Timothy Covell </subtitle>
+  <entry>
+    <title>The Texas Textbook Debate</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/the_texas_textbook_debate/">
+    </link>
+    <published>Mon, 05 Apr 2010 05:02:38 +0000</published>
+    <updated>Mon, 05 Apr 2010 05:02:38 +0000</updated>
+    <author>
+      <name>Timothy Covell</name>
+      <email>timothycovell@gmail.com</email>
+      <uri>/contributor/TimothyCovell/183</uri>
+    </author>
+    <category term="Political Pedagogy" label="Political Pedagogy" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Timothy Covell </subtitle>
+  <entry>
+    <title>Bing Maps: Borgesian Fantasy or Nightmare?</title>
+    <link type="text/html" href="https://www.takimag.com/article/bing_maps_borgesian_fantasy_or_nightmare/" rel="alternate">
+    </link>
+    <published>Tue, 23 Mar 2010 05:02:43 +0000</published>
+    <updated>Tue, 23 Mar 2010 05:02:43 +0000</updated>
+    <author>
+      <name>Timothy Covell</name>
+      <email>timothycovell@gmail.com</email>
+      <uri>/contributor/TimothyCovell/183</uri>
+    </author>
+    <category scheme="" term="Tech Overload" label="Tech Overload">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Timothy Covell </subtitle>
+  <entry>
+    <title>German Teen’s Plagiarism: Not Just A “Mash-Up”</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/german_teens_plagiarism_not_just_a_mash-up/">
+    </link>
+    <published>Thu, 25 Feb 2010 05:00:10 +0000</published>
+    <updated>Thu, 25 Feb 2010 05:00:10 +0000</updated>
+    <author>
+      <name>Timothy Covell</name>
+      <email>timothycovell@gmail.com</email>
+      <uri>/contributor/TimothyCovell/183</uri>
+    </author>
+    <category term="Lit Crit" scheme="" label="Lit Crit">
+    </category>
+  </entry>
+</feed>

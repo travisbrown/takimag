@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Tibor Krausz </subtitle>
+  <entry>
+    <title>Under Siege, Under Scrutiny</title>
+    <link href="https://www.takimag.com/article/under_siege_under_scrutiny_tibor_krausz/" rel="alternate" type="text/html">
+    </link>
+    <published>Thu, 24 Sep 2015 04:00:14 +0000</published>
+    <updated>Thu, 24 Sep 2015 04:00:14 +0000</updated>
+    <author>
+      <name>Tibor Krausz</name>
+      <email>tiborbkk@yahoo.com</email>
+      <uri>/contributor/tibor/339</uri>
+    </author>
+    <category term="Europe" label="Europe" scheme="">
+    </category>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+  </entry>
+</feed>

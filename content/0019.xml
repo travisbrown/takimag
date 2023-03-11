@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Eric Kenning </subtitle>
+  <entry>
+    <title>The Grey Lady Shrinks</title>
+    <link type="text/html" href="https://www.takimag.com/article/the_grey_lady_shrinks/" rel="alternate">
+    </link>
+    <published>Tue, 14 Aug 2007 14:57:00 +0000</published>
+    <updated>Tue, 14 Aug 2007 14:57:00 +0000</updated>
+    <author>
+      <name>Eric Kenning</name>
+      <email>kenning@takimag.com</email>
+      <uri>/contributor/Kenning/19</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Eric Kenning </subtitle>
+  <entry>
+    <title>The White House Steroid Scandal</title>
+    <link href="https://www.takimag.com/article/the_white_house_steroid_scandal/" type="text/html" rel="alternate">
+    </link>
+    <published>Sat, 19 May 2007 03:01:00 +0000</published>
+    <updated>Sat, 19 May 2007 03:01:00 +0000</updated>
+    <author>
+      <name>Eric Kenning</name>
+      <email>kenning@takimag.com</email>
+      <uri>/contributor/Kenning/19</uri>
+    </author>
+    <category scheme="" term="Uncategorized" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Eric Kenning </subtitle>
+  <entry>
+    <title>Bush Declares Something Accomplished</title>
+    <link href="https://www.takimag.com/article/bush_declares_something_accomplished/" rel="alternate" type="text/html">
+    </link>
+    <published>Fri, 27 Apr 2007 03:01:01 +0000</published>
+    <updated>Fri, 27 Apr 2007 03:01:01 +0000</updated>
+    <author>
+      <name>Eric Kenning</name>
+      <email>kenning@takimag.com</email>
+      <uri>/contributor/Kenning/19</uri>
+    </author>
+    <category scheme="" term="Uncategorized" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Eric Kenning </subtitle>
+  <entry>
+    <title>Cheney Converts to Islam</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/cheney_converts_to_islam/">
+    </link>
+    <published>Fri, 02 Mar 2007 05:01:00 +0000</published>
+    <updated>Fri, 02 Mar 2007 05:01:00 +0000</updated>
+    <author>
+      <name>Eric Kenning</name>
+      <email>kenning@takimag.com</email>
+      <uri>/contributor/Kenning/19</uri>
+    </author>
+    <category label="Uncategorized" term="Uncategorized" scheme="">
+    </category>
+  </entry>
+</feed>

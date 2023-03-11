@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Matt Gibson </subtitle>
+  <entry>
+    <title>At a Loss for Words</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/at_a_loss_for_words_matt_gibson/">
+    </link>
+    <published>Wed, 15 Jul 2015 04:00:06 +0000</published>
+    <updated>Wed, 15 Jul 2015 04:00:06 +0000</updated>
+    <author>
+      <name>Matt Gibson</name>
+      <email>mgibson150@gmail.com</email>
+      <uri>/contributor/mattgibson/331</uri>
+    </author>
+    <category term="Politics" scheme="" label="Politics">
+    </category>
+    <category scheme="" label="Semantics" term="Semantics">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Matt Gibson </subtitle>
+  <entry>
+    <title>Rolling Stoned to Death</title>
+    <link href="https://www.takimag.com/article/rolling_stoned_to_death_matt_gibson/" rel="alternate" type="text/html">
+    </link>
+    <published>Thu, 04 Jun 2015 04:01:03 +0000</published>
+    <updated>Thu, 04 Jun 2015 04:01:03 +0000</updated>
+    <author>
+      <name>Matt Gibson</name>
+      <email>mgibson150@gmail.com</email>
+      <uri>/contributor/mattgibson/331</uri>
+    </author>
+    <category scheme="" label="Commerce" term="Commerce">
+    </category>
+    <category scheme="" label="Media" term="Media">
+    </category>
+  </entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Francisco Uribe </subtitle>
+  <entry>
+    <title>Hell Hath No Fury</title>
+    <link type="text/html" href="https://www.takimag.com/article/hell_hath_no_fury/" rel="alternate">
+    </link>
+    <published>Thu, 02 Oct 2008 13:23:00 +0000</published>
+    <updated>Thu, 02 Oct 2008 13:23:00 +0000</updated>
+    <author>
+      <name>Francisco Uribe</name>
+      <email>pravaslavet@hotmail.com</email>
+      <uri>/contributor/franciscouribe/112</uri>
+    </author>
+    <category label="Manhunt" term="Manhunt" scheme="">
+    </category>
+  </entry>
+</feed>

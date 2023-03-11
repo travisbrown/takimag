@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Andrew Cusack </subtitle>
+  <entry>
+    <title>Separation Anxiety</title>
+    <link rel="alternate" href="https://www.takimag.com/article/separation_anxiety/" type="text/html">
+    </link>
+    <published>Wed, 04 Feb 2009 06:51:11 +0000</published>
+    <updated>Wed, 04 Feb 2009 06:51:11 +0000</updated>
+    <author>
+      <name>Andrew Cusack</name>
+      <email>andrew@taki.com</email>
+      <uri>/contributor/andrewcusack/87</uri>
+    </author>
+    <category scheme="" term="Life" label="Life">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Andrew Cusack </subtitle>
+  <entry>
+    <title>High Drama in Argentina’s Halls of Power</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/high_drama_in_argentinas_halls_of_power/">
+    </link>
+    <published>Sun, 27 Jul 2008 23:40:00 +0000</published>
+    <updated>Sun, 27 Jul 2008 23:40:00 +0000</updated>
+    <author>
+      <name>Andrew Cusack</name>
+      <email>andrew@taki.com</email>
+      <uri>/contributor/andrewcusack/87</uri>
+    </author>
+    <category term="World" scheme="" label="World">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Andrew Cusack </subtitle>
+  <entry>
+    <title>Stat Belgium, stat Europa</title>
+    <link href="https://www.takimag.com/article/stat_belgium_stat_europa/" rel="alternate" type="text/html">
+    </link>
+    <published>Fri, 27 Jun 2008 01:19:00 +0000</published>
+    <updated>Fri, 27 Jun 2008 01:19:00 +0000</updated>
+    <author>
+      <name>Andrew Cusack</name>
+      <email>andrew@taki.com</email>
+      <uri>/contributor/andrewcusack/87</uri>
+    </author>
+    <category scheme="" label="World" term="World">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Andrew Cusack </subtitle>
+  <entry>
+    <title>Fighting Evil with Evil</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/fighting_evil_with_evil/">
+    </link>
+    <published>Sat, 14 Jun 2008 17:38:00 +0000</published>
+    <updated>Sat, 14 Jun 2008 17:38:00 +0000</updated>
+    <author>
+      <name>Andrew Cusack</name>
+      <email>andrew@taki.com</email>
+      <uri>/contributor/andrewcusack/87</uri>
+    </author>
+    <category scheme="" label="War" term="War">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Andrew Cusack </subtitle>
+  <entry>
+    <title>The Crown of Disenchantment</title>
+    <link type="text/html" href="https://www.takimag.com/article/the_crown_of_disenchantment/" rel="alternate">
+    </link>
+    <published>Sat, 31 May 2008 19:12:00 +0000</published>
+    <updated>Sat, 31 May 2008 19:12:00 +0000</updated>
+    <author>
+      <name>Andrew Cusack</name>
+      <email>andrew@taki.com</email>
+      <uri>/contributor/andrewcusack/87</uri>
+    </author>
+    <category term="Britain" scheme="" label="Britain">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Andrew Cusack </subtitle>
+  <entry>
+    <title>Christ at the heart of Quebec</title>
+    <link href="https://www.takimag.com/article/christ_at_the_heart_of_quebec/" type="text/html" rel="alternate">
+    </link>
+    <published>Fri, 23 May 2008 22:10:00 +0000</published>
+    <updated>Fri, 23 May 2008 22:10:00 +0000</updated>
+    <author>
+      <name>Andrew Cusack</name>
+      <email>andrew@taki.com</email>
+      <uri>/contributor/andrewcusack/87</uri>
+    </author>
+    <category term="Religion" scheme="" label="Religion">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Andrew Cusack </subtitle>
+  <entry>
+    <title>Which Scots conservatism: unionist or nationalist?</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/which_scots_conservatism_unionist_or_nationalist/">
+    </link>
+    <published>Sat, 17 May 2008 21:13:00 +0000</published>
+    <updated>Sat, 17 May 2008 21:13:00 +0000</updated>
+    <author>
+      <name>Andrew Cusack</name>
+      <email>andrew@taki.com</email>
+      <uri>/contributor/andrewcusack/87</uri>
+    </author>
+    <category term="Conservatism" label="Conservatism" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Andrew Cusack </subtitle>
+  <entry>
+    <title>Pondering the Shape of Things to Come</title>
+    <link href="https://www.takimag.com/article/pondering_the_shape_of_things_to_come/" rel="alternate" type="text/html">
+    </link>
+    <published>Sat, 10 May 2008 00:44:01 +0000</published>
+    <updated>Sat, 10 May 2008 00:44:01 +0000</updated>
+    <author>
+      <name>Andrew Cusack</name>
+      <email>andrew@taki.com</email>
+      <uri>/contributor/andrewcusack/87</uri>
+    </author>
+    <category term="Politics" label="Politics" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Andrew Cusack </subtitle>
+  <entry>
+    <title>The myths of Simon Blackburn</title>
+    <link rel="alternate" href="https://www.takimag.com/article/the_myths_of_simon_blackburn/" type="text/html">
+    </link>
+    <published>Wed, 30 Apr 2008 04:06:00 +0000</published>
+    <updated>Wed, 30 Apr 2008 04:06:00 +0000</updated>
+    <author>
+      <name>Andrew Cusack</name>
+      <email>andrew@taki.com</email>
+      <uri>/contributor/andrewcusack/87</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+</feed>

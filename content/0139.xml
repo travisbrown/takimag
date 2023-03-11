@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Mark Hackard </subtitle>
+  <entry>
+    <title>Suicide by Multiculturalism</title>
+    <link rel="alternate" href="https://www.takimag.com/article/suicide_by_multiculturalism/" type="text/html">
+    </link>
+    <published>Mon, 23 Nov 2009 13:27:42 +0000</published>
+    <updated>Mon, 23 Nov 2009 13:27:42 +0000</updated>
+    <author>
+      <name>Mark Hackard</name>
+      <email>markhackard@gmail.com</email>
+      <uri>/contributor/markhackard/139</uri>
+    </author>
+    <category scheme="" term="Culture" label="Culture">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mark Hackard </subtitle>
+  <entry>
+    <title>Cold War Nostalgia</title>
+    <link type="text/html" href="https://www.takimag.com/article/cold_war_nostalgia/" rel="alternate">
+    </link>
+    <published>Mon, 21 Sep 2009 06:20:39 +0000</published>
+    <updated>Mon, 21 Sep 2009 06:20:39 +0000</updated>
+    <author>
+      <name>Mark Hackard</name>
+      <email>markhackard@gmail.com</email>
+      <uri>/contributor/markhackard/139</uri>
+    </author>
+    <category term="World" scheme="" label="World">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mark Hackard </subtitle>
+  <entry>
+    <title>Blackwater “Crusaders”? As If!</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/blackwater_crusaders_as_if/">
+    </link>
+    <published>Thu, 20 Aug 2009 17:19:42 +0000</published>
+    <updated>Thu, 20 Aug 2009 17:19:42 +0000</updated>
+    <author>
+      <name>Mark Hackard</name>
+      <email>markhackard@gmail.com</email>
+      <uri>/contributor/markhackard/139</uri>
+    </author>
+    <category label="Christendom" term="Christendom" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mark Hackard </subtitle>
+  <entry>
+    <title>Bear Hug</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/bear_hug/">
+    </link>
+    <published>Thu, 16 Jul 2009 20:31:07 +0000</published>
+    <updated>Thu, 16 Jul 2009 20:31:07 +0000</updated>
+    <author>
+      <name>Mark Hackard</name>
+      <email>markhackard@gmail.com</email>
+      <uri>/contributor/markhackard/139</uri>
+    </author>
+    <category scheme="" label="World" term="World">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mark Hackard </subtitle>
+  <entry>
+    <title>Back Into the Cold</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/back_into_the_cold/">
+    </link>
+    <published>Tue, 26 May 2009 03:52:34 +0000</published>
+    <updated>Tue, 26 May 2009 03:52:34 +0000</updated>
+    <author>
+      <name>Mark Hackard</name>
+      <email>markhackard@gmail.com</email>
+      <uri>/contributor/markhackard/139</uri>
+    </author>
+    <category label="World" term="World" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mark Hackard </subtitle>
+  <entry>
+    <title>Outside the Gates</title>
+    <link href="https://www.takimag.com/article/outside_the_gates/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 27 Apr 2009 07:42:15 +0000</published>
+    <updated>Mon, 27 Apr 2009 07:42:15 +0000</updated>
+    <author>
+      <name>Mark Hackard</name>
+      <email>markhackard@gmail.com</email>
+      <uri>/contributor/markhackard/139</uri>
+    </author>
+    <category term="Christendom" label="Christendom" scheme="">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mark Hackard </subtitle>
+  <entry>
+    <title>The Postmodern Alliance</title>
+    <link href="https://www.takimag.com/article/the_postmodern_alliance/" rel="alternate" type="text/html">
+    </link>
+    <published>Mon, 06 Apr 2009 13:25:49 +0000</published>
+    <updated>Mon, 06 Apr 2009 13:25:49 +0000</updated>
+    <author>
+      <name>Mark Hackard</name>
+      <email>markhackard@gmail.com</email>
+      <uri>/contributor/markhackard/139</uri>
+    </author>
+    <category scheme="" label="Foreign Policy" term="Foreign Policy">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mark Hackard </subtitle>
+  <entry>
+    <title>Containing Jihad</title>
+    <link href="https://www.takimag.com/article/containing_jihad/" type="text/html" rel="alternate">
+    </link>
+    <published>Wed, 25 Mar 2009 06:56:57 +0000</published>
+    <updated>Wed, 25 Mar 2009 06:56:57 +0000</updated>
+    <author>
+      <name>Mark Hackard</name>
+      <email>markhackard@gmail.com</email>
+      <uri>/contributor/markhackard/139</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by Mark Hackard </subtitle>
+  <entry>
+    <title>The Curious Case of Clinton’s Button</title>
+    <link href="https://www.takimag.com/article/the_curious_case_of_clintons_button/" rel="alternate" type="text/html">
+    </link>
+    <published>Fri, 13 Mar 2009 16:20:12 +0000</published>
+    <updated>Fri, 13 Mar 2009 16:20:12 +0000</updated>
+    <author>
+      <name>Mark Hackard</name>
+      <email>markhackard@gmail.com</email>
+      <uri>/contributor/markhackard/139</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+</feed>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by John Ball </subtitle>
+  <entry>
+    <title>Poe and the Publicity Hounds of Hell</title>
+    <link type="text/html" href="https://www.takimag.com/article/poe_and_the_publicity_hounds_of_hell/" rel="alternate">
+    </link>
+    <published>Wed, 31 Oct 2007 03:01:00 +0000</published>
+    <updated>Wed, 31 Oct 2007 03:01:00 +0000</updated>
+    <author>
+      <name>John Ball</name>
+      <email>johnball@takimag.com</email>
+      <uri>/contributor/johnball/29</uri>
+    </author>
+    <category scheme="" label="Uncategorized" term="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by John Ball </subtitle>
+  <entry>
+    <title>The Dollar Sign or the Cross: Which Faith Will Save China?</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/the_dollar_sign_or_the_cross_which_faith_will_save_china/">
+    </link>
+    <published>Thu, 06 Sep 2007 03:01:00 +0000</published>
+    <updated>Thu, 06 Sep 2007 03:01:00 +0000</updated>
+    <author>
+      <name>John Ball</name>
+      <email>johnball@takimag.com</email>
+      <uri>/contributor/johnball/29</uri>
+    </author>
+    <category label="Uncategorized" scheme="" term="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by John Ball </subtitle>
+  <entry>
+    <title>How Gatsby Skinned His Head</title>
+    <link type="text/html" rel="alternate" href="https://www.takimag.com/article/how_gatsby_skinned_his_head/">
+    </link>
+    <published>Mon, 07 May 2007 03:01:00 +0000</published>
+    <updated>Mon, 07 May 2007 03:01:00 +0000</updated>
+    <author>
+      <name>John Ball</name>
+      <email>johnball@takimag.com</email>
+      <uri>/contributor/johnball/29</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+  <subtitle type="text">Articles by John Ball </subtitle>
+  <entry>
+    <title>Yeltsin Rest in Peace</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/yeltsin_rest_in_peace/">
+    </link>
+    <published>Tue, 01 May 2007 17:21:00 +0000</published>
+    <updated>Tue, 01 May 2007 17:21:00 +0000</updated>
+    <author>
+      <name>John Ball</name>
+      <email>johnball@takimag.com</email>
+      <uri>/contributor/johnball/29</uri>
+    </author>
+    <category term="Uncategorized" scheme="" label="Uncategorized">
+    </category>
+  </entry>
+</feed>

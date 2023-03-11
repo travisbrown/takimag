@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" lang="en">
+  <title type="text">Taki's Magazine - Feed</title>
+  <link>https://www.takimag.com</link>
+  <description>Taki's Magazine</description>
+  <updated>Fri, 11 Feb 2022 23:00:00 +0000</updated>
+  <language>
+  </language>
+  <subtitle type="text">Articles by Devin Reid Saucier </subtitle>
+  <entry>
+    <title>Youth for Western Civilization</title>
+    <link rel="alternate" type="text/html" href="https://www.takimag.com/article/youth_for_western_civilization/">
+    </link>
+    <published>Thu, 16 Apr 2009 13:19:54 +0000</published>
+    <updated>Thu, 16 Apr 2009 13:19:54 +0000</updated>
+    <author>
+      <name>Devin Reid Saucier</name>
+      <email>devin.r.saucier@vanderbilt.edu</email>
+      <uri>/contributor/devinsaucier/150</uri>
+    </author>
+    <category label="Old School" term="Old School" scheme="">
+    </category>
+  </entry>
+</feed>
